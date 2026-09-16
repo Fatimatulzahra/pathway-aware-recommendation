@@ -1,4 +1,3 @@
-# pathway-aware-recommendation
 # Pathway-Aware Opportunity Recommendation
 
 ### Broadening Computer Science Career Exploration Through Pathway-Aware Recommendations
