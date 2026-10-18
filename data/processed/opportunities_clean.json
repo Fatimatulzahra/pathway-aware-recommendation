@@ -1,0 +1,2449 @@
+[
+  {
+    "id": "opp_001",
+    "title": "STEP Software Engineering Intern",
+    "org": "Google",
+    "type": "internship",
+    "description": "First- and second-year focused software engineering internship building product features in a large codebase with a mentor and a small project team.",
+    "requirements": "1st/2nd-year undergrad; data structures & algorithms; one programming language.",
+    "link": "https://buildyourfuture.withgoogle.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_002",
+    "title": "Explore Program",
+    "org": "Microsoft",
+    "type": "internship",
+    "description": "12-week program for early undergrads that rotates a cohort through both software engineering and product management to sample each track.",
+    "requirements": "1st/2nd-year undergrad; intro CS coursework.",
+    "link": "https://careers.microsoft.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_003",
+    "title": "Meta University for Engineering",
+    "org": "Meta",
+    "type": "internship",
+    "description": "Paid internship for rising sophomores from underrepresented groups, pairing app-building work with mentorship and technical coaching.",
+    "requirements": "Rising sophomore; some coding experience.",
+    "link": "https://www.metacareers.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_004",
+    "title": "Software Development Engineer Intern",
+    "org": "Amazon",
+    "type": "internship",
+    "description": "Build and ship backend or full-stack services at scale; own a defined project end to end with a team of engineers.",
+    "requirements": "Undergrad in CS or related; proficiency in one language; DSA.",
+    "link": "https://www.amazon.jobs",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_005",
+    "title": "Software Engineering Intern",
+    "org": "Apple",
+    "type": "internship",
+    "description": "Contribute production code to platform, application, or systems software teams across the company.",
+    "requirements": "Undergrad CS; strong programming fundamentals.",
+    "link": "https://jobs.apple.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_006",
+    "title": "Software Engineering Intern",
+    "org": "Bloomberg",
+    "type": "internship",
+    "description": "Develop features for financial software and data infrastructure used by markets professionals worldwide.",
+    "requirements": "Undergrad CS; C++/Python/Java; DSA.",
+    "link": "https://careers.bloomberg.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_007",
+    "title": "Engineering Intern",
+    "org": "Stripe",
+    "type": "internship",
+    "description": "Build reliable payments and developer-facing APIs; write production code with mentorship.",
+    "requirements": "Undergrad; strong CS fundamentals; one backend language.",
+    "link": "https://stripe.com/jobs",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_008",
+    "title": "Software Engineering Intern",
+    "org": "Atlassian",
+    "type": "internship",
+    "description": "Ship features across collaboration products; work in a full-stack team on real customer-facing problems.",
+    "requirements": "Undergrad CS; web or backend experience.",
+    "link": "https://www.atlassian.com/company/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_009",
+    "title": "Software Engineer Intern",
+    "org": "Salesforce Futureforce",
+    "type": "internship",
+    "description": "Develop cloud application features within the Futureforce university program with mentorship and cohort events.",
+    "requirements": "Undergrad CS; OOP; one language.",
+    "link": "https://www.salesforce.com/company/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_010",
+    "title": "Engineering Apprenticeship",
+    "org": "Pinterest",
+    "type": "internship",
+    "description": "Apprenticeship for non-traditional and underrepresented candidates building product features with dedicated mentoring.",
+    "requirements": "Some programming experience; bootcamp or self-taught welcome.",
+    "link": "https://www.pinterestcareers.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_011",
+    "title": "Software Engineering Intern",
+    "org": "Dropbox",
+    "type": "internship",
+    "description": "Work on sync, sharing, or platform features; contribute production code to a product used by millions.",
+    "requirements": "Undergrad CS; one language; DSA.",
+    "link": "https://www.dropbox.com/jobs",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_012",
+    "title": "Software Engineering Intern",
+    "org": "Adobe",
+    "type": "internship",
+    "description": "Build features for creative or document cloud products alongside a full engineering team.",
+    "requirements": "Undergrad CS; proficiency in one language.",
+    "link": "https://careers.adobe.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_013",
+    "title": "Dev Degree / Engineering Intern",
+    "org": "Shopify",
+    "type": "internship",
+    "description": "Hands-on commerce-platform engineering combined with structured learning; build merchant-facing features.",
+    "requirements": "Undergrad; web development basics.",
+    "link": "https://www.shopify.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_014",
+    "title": "Software Engineering Intern",
+    "org": "Palantir",
+    "type": "internship",
+    "description": "Build data-integration and application software deployed against real customer problems.",
+    "requirements": "Undergrad CS; strong programming; DSA.",
+    "link": "https://www.palantir.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_015",
+    "title": "Extreme Blue / Software Intern",
+    "org": "IBM",
+    "type": "internship",
+    "description": "Team-based internship building a working software prototype around a business problem, presented to leadership.",
+    "requirements": "Undergrad CS; programming experience.",
+    "link": "https://www.ibm.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_016",
+    "title": "Hatch Apprenticeship",
+    "org": "Twilio",
+    "type": "internship",
+    "description": "Apprenticeship onboarding early-career and non-traditional engineers onto production communications software.",
+    "requirements": "Foundational programming; non-traditional backgrounds welcome.",
+    "link": "https://www.twilio.com/company/jobs",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_017",
+    "title": "Software Engineering Intern",
+    "org": "Uber",
+    "type": "internship",
+    "description": "Build features across rider, driver, or platform systems in a high-scale environment.",
+    "requirements": "Undergrad CS; one language; DSA.",
+    "link": "https://www.uber.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_018",
+    "title": "CoachIn / Software Engineering Intern",
+    "org": "LinkedIn",
+    "type": "internship",
+    "description": "Develop features for the professional network with mentorship geared to underrepresented students.",
+    "requirements": "Undergrad CS; OOP.",
+    "link": "https://careers.linkedin.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_019",
+    "title": "Production Engineering Fellowship",
+    "org": "MLH Fellowship",
+    "type": "fellowship",
+    "description": "12-week remote fellowship contributing to open-source projects with a focus on software and infrastructure, in small pods with mentors.",
+    "requirements": "Open to students; Git and one language.",
+    "link": "https://fellowship.mlh.io",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_020",
+    "title": "Google Summer of Code",
+    "org": "Google / Open Source",
+    "type": "fellowship",
+    "description": "Paid remote program where students contribute a defined coding project to an open-source organization over the summer.",
+    "requirements": "18+; able to contribute to open source.",
+    "link": "https://summerofcode.withgoogle.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_021",
+    "title": "Outreachy Internship",
+    "org": "Software Freedom Conservancy",
+    "type": "internship",
+    "description": "Paid remote internship contributing to open source, aimed at people underrepresented in tech.",
+    "requirements": "Underrepresented in tech; open-source contribution.",
+    "link": "https://www.outreachy.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_022",
+    "title": "Season of Docs",
+    "org": "Google",
+    "type": "fellowship",
+    "description": "Program pairing technical writers and developers to improve open-source project documentation.",
+    "requirements": "Technical writing or dev experience.",
+    "link": "https://developers.google.com/season-of-docs",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_023",
+    "title": "Data Science Intern",
+    "org": "Meta",
+    "type": "internship",
+    "description": "Use experimentation, statistics, and SQL/Python to inform product decisions and measure impact.",
+    "requirements": "Stats/CS coursework; SQL; Python or R.",
+    "link": "https://www.metacareers.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_024",
+    "title": "Data Science Intern",
+    "org": "Airbnb",
+    "type": "internship",
+    "description": "Analyze marketplace data and run experiments to guide product and business decisions.",
+    "requirements": "Statistics; SQL; Python/R.",
+    "link": "https://careers.airbnb.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_025",
+    "title": "Data Science & Engineering Intern",
+    "org": "Netflix",
+    "type": "internship",
+    "description": "Build models and analyses supporting personalization and content decisions on large datasets.",
+    "requirements": "ML or stats background; Python; SQL.",
+    "link": "https://jobs.netflix.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science",
+      "machine_learning_ai"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_026",
+    "title": "Data Scientist Intern",
+    "org": "Spotify",
+    "type": "internship",
+    "description": "Apply statistics and experimentation to understand listener behavior and product performance.",
+    "requirements": "Stats; SQL; Python/R.",
+    "link": "https://www.lifeatspotify.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_027",
+    "title": "Data Analyst Intern",
+    "org": "Capital One",
+    "type": "internship",
+    "description": "Clean, analyze, and visualize data to support business decisions; build dashboards and reports.",
+    "requirements": "SQL; Python or R; analytics coursework.",
+    "link": "https://www.capitalonecareers.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_028",
+    "title": "Data Science Intern",
+    "org": "American Express",
+    "type": "internship",
+    "description": "Apply analytics and modeling to risk, marketing, or customer data in a financial-services setting.",
+    "requirements": "Statistics; Python/R; SQL.",
+    "link": "https://www.americanexpress.com/en-us/careers",
+    "date_posted": null,
+    "pathways": [
+      "data_science",
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_029",
+    "title": "Data Science Intern",
+    "org": "Pinterest",
+    "type": "internship",
+    "description": "Run experiments and build analyses that shape recommendations and growth decisions.",
+    "requirements": "Stats; SQL; Python.",
+    "link": "https://www.pinterestcareers.com",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_030",
+    "title": "Data Science Co-op",
+    "org": "Wayfair",
+    "type": "internship",
+    "description": "Support pricing, logistics, or marketing analytics with statistical modeling and experimentation.",
+    "requirements": "Stats/CS; SQL; Python/R.",
+    "link": "https://www.aboutwayfair.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_031",
+    "title": "Data Science Intern",
+    "org": "Nielsen",
+    "type": "internship",
+    "description": "Work with large media-measurement datasets to produce analyses and models.",
+    "requirements": "Statistics; Python/R; SQL.",
+    "link": "https://www.nielsen.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_032",
+    "title": "Deep Learning Intern",
+    "org": "NVIDIA",
+    "type": "internship",
+    "description": "Develop and optimize deep learning models and the systems that train them on GPU hardware.",
+    "requirements": "ML coursework; Python; PyTorch/TensorFlow.",
+    "link": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_033",
+    "title": "AI Research Intern",
+    "org": "Google Research",
+    "type": "internship",
+    "description": "Conduct machine learning research alongside scientists, aiming at a publishable result.",
+    "requirements": "Strong ML background; research experience a plus.",
+    "link": "https://research.google/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_034",
+    "title": "AI Research Intern",
+    "org": "Meta AI (FAIR)",
+    "type": "internship",
+    "description": "Work on fundamental or applied AI research problems with a research team.",
+    "requirements": "ML depth; coding; research orientation.",
+    "link": "https://ai.meta.com",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_035",
+    "title": "Research Intern (AI)",
+    "org": "Microsoft Research",
+    "type": "internship",
+    "description": "Pursue an AI/ML research project with a mentor, contributing toward a paper.",
+    "requirements": "ML/AI coursework or research; Python.",
+    "link": "https://www.microsoft.com/en-us/research/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_036",
+    "title": "Residency Program",
+    "org": "OpenAI",
+    "type": "fellowship",
+    "description": "Program helping people from adjacent fields transition into AI research and engineering.",
+    "requirements": "Strong quantitative background; programming.",
+    "link": "https://openai.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_037",
+    "title": "Machine Learning Intern",
+    "org": "Apple",
+    "type": "internship",
+    "description": "Build ML features for on-device intelligence and applications.",
+    "requirements": "ML coursework; Python; one DL framework.",
+    "link": "https://jobs.apple.com",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_038",
+    "title": "Applied Scientist Intern",
+    "org": "Amazon",
+    "type": "internship",
+    "description": "Develop and evaluate ML models for search, recommendations, or operations; often paper-oriented.",
+    "requirements": "ML depth; strong coding; often PhD-track.",
+    "link": "https://www.amazon.science/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_039",
+    "title": "Research Intern",
+    "org": "IBM Research",
+    "type": "internship",
+    "description": "Contribute to AI or systems research projects with the possibility of publication.",
+    "requirements": "Research interest; coding; ML or systems background.",
+    "link": "https://research.ibm.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_040",
+    "title": "Research Internship",
+    "org": "Google DeepMind",
+    "type": "internship",
+    "description": "Work on advanced machine learning research with a scientific team.",
+    "requirements": "Strong ML/math; research experience.",
+    "link": "https://deepmind.google/about/careers",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_041",
+    "title": "AI4ALL Summer Program",
+    "org": "AI4ALL",
+    "type": "program",
+    "description": "Introduces students from underrepresented groups to AI through a mentored research project and ethics curriculum.",
+    "requirements": "High school / early undergrad; no prior AI required.",
+    "link": "https://ai-4-all.org",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_042",
+    "title": "Break Through Tech AI",
+    "org": "Break Through Tech",
+    "type": "program",
+    "description": "Machine learning skilling program for undergrad women and nonbinary students, including a real-world ML studio project.",
+    "requirements": "Undergrad; enrolled at partner schools; some coding.",
+    "link": "https://www.breakthroughtech.org",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_043",
+    "title": "Cybersecurity Summer Intern",
+    "org": "National Security Agency (NSA)",
+    "type": "internship",
+    "description": "Hands-on work in network defense, reverse engineering, or vulnerability analysis within a federal security setting.",
+    "requirements": "US citizen; security clearance eligible; CS coursework.",
+    "link": "https://www.intelligencecareers.gov/nsa",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_044",
+    "title": "CyberCorps: Scholarship for Service",
+    "org": "NSF / OPM",
+    "type": "scholarship",
+    "description": "Full scholarship plus stipend in exchange for post-graduation government cybersecurity service.",
+    "requirements": "US citizen; enrolled in a participating security program.",
+    "link": "https://sfs.opm.gov",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_045",
+    "title": "Codebreaker Challenge",
+    "org": "National Security Agency (NSA)",
+    "type": "competition",
+    "description": "Annual reverse-engineering and cybersecurity challenge series for students, from easy to expert.",
+    "requirements": "US-based students; interest in security.",
+    "link": "https://nsa-codebreaker.org",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_046",
+    "title": "Cyber Intern",
+    "org": "MITRE",
+    "type": "internship",
+    "description": "Support security research and engineering on federally funded projects.",
+    "requirements": "US work authorization; security interest; CS.",
+    "link": "https://careers.mitre.org",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_047",
+    "title": "Cybersecurity Intern",
+    "org": "Palo Alto Networks",
+    "type": "internship",
+    "description": "Work on threat detection, product security, or security research with a security-products company.",
+    "requirements": "Networking/security coursework; scripting.",
+    "link": "https://jobs.paloaltonetworks.com",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_048",
+    "title": "University Program (Security)",
+    "org": "CrowdStrike",
+    "type": "internship",
+    "description": "Contribute to endpoint protection, threat intel, or detection engineering.",
+    "requirements": "Security interest; scripting; some systems knowledge.",
+    "link": "https://www.crowdstrike.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_049",
+    "title": "Security Intern",
+    "org": "Cisco",
+    "type": "internship",
+    "description": "Build or test secure networking and cloud-security features.",
+    "requirements": "Networking basics; one scripting language.",
+    "link": "https://jobs.cisco.com",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity",
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_050",
+    "title": "Cyber Intern",
+    "org": "Booz Allen Hamilton",
+    "type": "internship",
+    "description": "Apply cybersecurity skills on consulting engagements for government and commercial clients.",
+    "requirements": "US work authorization; security coursework.",
+    "link": "https://careers.boozallen.com",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_051",
+    "title": "Cyber FastTrack / CyberStart",
+    "org": "SANS Institute",
+    "type": "scholarship",
+    "description": "National capture-the-flag competition that awards cybersecurity training scholarships to top student performers.",
+    "requirements": "US college students; no prior experience required.",
+    "link": "https://www.sans.org",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_052",
+    "title": "Security Engineering Intern",
+    "org": "Meta",
+    "type": "internship",
+    "description": "Work on product security, detection, or privacy engineering at scale.",
+    "requirements": "Security fundamentals; coding.",
+    "link": "https://www.metacareers.com",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_053",
+    "title": "Distributed Research Experiences for Undergraduates (DREU)",
+    "org": "CRA-WP",
+    "type": "reu",
+    "description": "Matches undergrads from underrepresented groups with a faculty mentor for a funded summer research project at another institution.",
+    "requirements": "Undergrad; underrepresented in computing; 3.0+ GPA typical.",
+    "link": "https://cra.org/cra-wp/dreu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_054",
+    "title": "NSF REU in Computer Science",
+    "org": "National Science Foundation",
+    "type": "reu",
+    "description": "Funded summer research at a host university lab, culminating in a paper or poster; sites span many CS subfields.",
+    "requirements": "US undergrad; varies by site.",
+    "link": "https://www.nsf.gov/crssprgm/reu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_055",
+    "title": "CS Research Mentorship Program (CSRMP)",
+    "org": "Google",
+    "type": "program",
+    "description": "Structured mentorship connecting students from underrepresented groups with Google researchers to explore CS research.",
+    "requirements": "Undergrad/grad interested in CS research.",
+    "link": "https://research.google/programs-and-events/csrmp",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_056",
+    "title": "Summer Research Program (MSRP)",
+    "org": "MIT",
+    "type": "reu",
+    "description": "Funded summer research at MIT for undergrads underrepresented in their field, with faculty mentorship.",
+    "requirements": "Rising junior/senior; research interest.",
+    "link": "https://oge.mit.edu/msrp",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_057",
+    "title": "CURIS Summer Research",
+    "org": "Stanford University",
+    "type": "reu",
+    "description": "Undergraduate computer science research with Stanford faculty and PhD mentors over the summer.",
+    "requirements": "Undergrad; CS coursework.",
+    "link": "https://curis.stanford.edu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_058",
+    "title": "Summer Undergraduate Research (SURF/RISE)",
+    "org": "Carnegie Mellon University",
+    "type": "reu",
+    "description": "Mentored summer research across CMU labs, ending in a poster or paper.",
+    "requirements": "Undergrad; research interest.",
+    "link": "https://www.cmu.edu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_059",
+    "title": "Allen School REU",
+    "org": "University of Washington",
+    "type": "reu",
+    "description": "Summer research in the Paul G. Allen School with faculty and grad-student mentorship.",
+    "requirements": "Undergrad; CS background.",
+    "link": "https://www.cs.washington.edu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_060",
+    "title": "SUPERB REU",
+    "org": "UC Berkeley",
+    "type": "reu",
+    "description": "Summer research program in EECS for undergrads from underrepresented groups.",
+    "requirements": "Rising senior; EECS coursework.",
+    "link": "https://eecs.berkeley.edu",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_061",
+    "title": "Google PhD Fellowship",
+    "org": "Google",
+    "type": "fellowship",
+    "description": "Fellowship supporting graduate students pursuing research in computer science and related fields.",
+    "requirements": "PhD student; strong research record.",
+    "link": "https://research.google/programs-and-events/phd-fellowship",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_062",
+    "title": "GEM Fellowship",
+    "org": "National GEM Consortium",
+    "type": "fellowship",
+    "description": "Funds underrepresented students pursuing graduate STEM degrees, paired with a corporate internship.",
+    "requirements": "US citizen/PR; underrepresented in STEM; grad-bound.",
+    "link": "https://www.gemfellowship.org",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_063",
+    "title": "Graduate Research Fellowship (GRFP)",
+    "org": "National Science Foundation",
+    "type": "fellowship",
+    "description": "Prestigious fellowship funding early-career graduate researchers in STEM fields.",
+    "requirements": "US citizen; early grad or graduating senior.",
+    "link": "https://www.nsfgrfp.org",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_064",
+    "title": "Hardware Engineering Intern",
+    "org": "Intel",
+    "type": "internship",
+    "description": "Contribute to chip design, validation, or computer-architecture work.",
+    "requirements": "EE/CE/CS; digital logic; Verilog a plus.",
+    "link": "https://jobs.intel.com",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_065",
+    "title": "ASIC / Hardware Intern",
+    "org": "NVIDIA",
+    "type": "internship",
+    "description": "Work on GPU or accelerator hardware design and verification.",
+    "requirements": "EE/CE; RTL/Verilog; architecture.",
+    "link": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_066",
+    "title": "Design Engineering Intern",
+    "org": "AMD",
+    "type": "internship",
+    "description": "Support processor or GPU design, verification, or physical implementation.",
+    "requirements": "EE/CE; digital design.",
+    "link": "https://careers.amd.com",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_067",
+    "title": "Engineering Intern",
+    "org": "Qualcomm",
+    "type": "internship",
+    "description": "Work across embedded, wireless, or SoC engineering teams.",
+    "requirements": "EE/CE/CS; C/C++; embedded basics.",
+    "link": "https://www.qualcomm.com/company/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_068",
+    "title": "Firmware / Embedded Intern",
+    "org": "Tesla",
+    "type": "internship",
+    "description": "Develop embedded firmware for vehicle or energy systems.",
+    "requirements": "C/C++; microcontrollers; EE/CE/CS.",
+    "link": "https://www.tesla.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_069",
+    "title": "Robotics Intern",
+    "org": "Boston Dynamics",
+    "type": "internship",
+    "description": "Contribute to robot software, controls, or embedded systems.",
+    "requirements": "Robotics/controls; C++/Python.",
+    "link": "https://bostondynamics.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_070",
+    "title": "Robotics / Embedded Intern (JPL)",
+    "org": "NASA Jet Propulsion Laboratory",
+    "type": "internship",
+    "description": "Work on flight software, robotics, or embedded systems for space missions.",
+    "requirements": "US person for some roles; CS/CE/EE.",
+    "link": "https://www.jpl.nasa.gov/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_071",
+    "title": "Engineering Intern",
+    "org": "Arm",
+    "type": "internship",
+    "description": "Support processor IP design, verification, or embedded software.",
+    "requirements": "EE/CE/CS; computer architecture.",
+    "link": "https://careers.arm.com",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_072",
+    "title": "Avionics / Software Intern",
+    "org": "SpaceX",
+    "type": "internship",
+    "description": "Build flight or ground software and embedded systems for launch vehicles.",
+    "requirements": "C++/Python; strong CS fundamentals; US person for many roles.",
+    "link": "https://www.spacex.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_073",
+    "title": "Engineering Intern",
+    "org": "Texas Instruments",
+    "type": "internship",
+    "description": "Work on analog or embedded systems, from silicon to applications.",
+    "requirements": "EE/CE; embedded C.",
+    "link": "https://careers.ti.com",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_074",
+    "title": "Cloud Engineering Intern",
+    "org": "Amazon Web Services (AWS)",
+    "type": "internship",
+    "description": "Build or operate large-scale cloud services and infrastructure.",
+    "requirements": "CS fundamentals; Linux; one language.",
+    "link": "https://www.amazon.jobs",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_075",
+    "title": "Cloud Intern",
+    "org": "Google Cloud",
+    "type": "internship",
+    "description": "Develop features or tooling for cloud infrastructure and platform services.",
+    "requirements": "CS; distributed-systems interest.",
+    "link": "https://careers.google.com",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_076",
+    "title": "Azure Intern",
+    "org": "Microsoft",
+    "type": "internship",
+    "description": "Work on cloud platform, infrastructure, or reliability engineering.",
+    "requirements": "CS fundamentals; one language; Linux.",
+    "link": "https://careers.microsoft.com",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_077",
+    "title": "Engineering Intern",
+    "org": "HashiCorp",
+    "type": "internship",
+    "description": "Contribute to infrastructure-automation and cloud tooling used by DevOps teams.",
+    "requirements": "Go/one language; systems basics.",
+    "link": "https://www.hashicorp.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_078",
+    "title": "Engineering Intern",
+    "org": "Datadog",
+    "type": "internship",
+    "description": "Build observability and monitoring features across a large distributed platform.",
+    "requirements": "CS; one backend language.",
+    "link": "https://careers.datadoghq.com",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_079",
+    "title": "Intern",
+    "org": "Cloudflare",
+    "type": "internship",
+    "description": "Work on network, security, or platform services delivered at global scale.",
+    "requirements": "CS; networking or systems interest.",
+    "link": "https://www.cloudflare.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud",
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_080",
+    "title": "Intern",
+    "org": "Red Hat",
+    "type": "internship",
+    "description": "Contribute to open-source infrastructure, Linux, or cloud-native tooling.",
+    "requirements": "Linux; one language; open-source interest.",
+    "link": "https://www.redhat.com/en/jobs",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_081",
+    "title": "Associate Product Manager Intern",
+    "org": "Google",
+    "type": "internship",
+    "description": "Define product requirements and work across engineering and design to ship a feature.",
+    "requirements": "Any major; product sense; technical literacy.",
+    "link": "https://careers.google.com",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_082",
+    "title": "Product Manager Intern",
+    "org": "Microsoft",
+    "type": "internship",
+    "description": "Own a product area, gather requirements, and drive a feature from idea to launch.",
+    "requirements": "Technical or business background; communication.",
+    "link": "https://careers.microsoft.com",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_083",
+    "title": "Rotational Product Manager Intern",
+    "org": "Meta",
+    "type": "internship",
+    "description": "Work across product teams to scope, prioritize, and ship features.",
+    "requirements": "Product sense; analytical skills.",
+    "link": "https://www.metacareers.com",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_084",
+    "title": "Associate Product Manager Intern",
+    "org": "Uber",
+    "type": "internship",
+    "description": "Drive a product initiative end to end across engineering, design, and data.",
+    "requirements": "Analytical; technical literacy.",
+    "link": "https://www.uber.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_085",
+    "title": "Product Management Intern",
+    "org": "LinkedIn",
+    "type": "internship",
+    "description": "Define and ship features for the professional network with cross-functional teams.",
+    "requirements": "Product interest; data literacy.",
+    "link": "https://careers.linkedin.com",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_086",
+    "title": "Product Manager Intern",
+    "org": "Atlassian",
+    "type": "internship",
+    "description": "Shape collaboration products by scoping problems and coordinating delivery.",
+    "requirements": "Product sense; communication.",
+    "link": "https://www.atlassian.com/company/careers",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_087",
+    "title": "UX Design Intern",
+    "org": "Google",
+    "type": "internship",
+    "description": "Design user experiences and interfaces, from research and wireframes to polished flows.",
+    "requirements": "Design portfolio; interaction design.",
+    "link": "https://careers.google.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_088",
+    "title": "Design Intern",
+    "org": "Adobe",
+    "type": "internship",
+    "description": "Contribute product or experience design for creative and document tools.",
+    "requirements": "Portfolio; UX/UI skills.",
+    "link": "https://careers.adobe.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_089",
+    "title": "Product Design Intern",
+    "org": "Meta",
+    "type": "internship",
+    "description": "Design end-to-end product experiences with research, prototyping, and testing.",
+    "requirements": "Portfolio; interaction design.",
+    "link": "https://www.metacareers.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_090",
+    "title": "Design Intern",
+    "org": "Microsoft",
+    "type": "internship",
+    "description": "Work on interaction and visual design for products used by millions.",
+    "requirements": "Portfolio; design tools.",
+    "link": "https://careers.microsoft.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_091",
+    "title": "UX Design Intern",
+    "org": "IBM",
+    "type": "internship",
+    "description": "Apply design thinking to enterprise product experiences.",
+    "requirements": "Portfolio; UX process.",
+    "link": "https://www.ibm.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_092",
+    "title": "HCI Summer Research (REU)",
+    "org": "Carnegie Mellon HCII",
+    "type": "reu",
+    "description": "Mentored summer research in human-computer interaction, ending in a poster or paper.",
+    "requirements": "Undergrad; interest in HCI research.",
+    "link": "https://www.hcii.cmu.edu",
+    "date_posted": null,
+    "pathways": [
+      "ux_design",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_093",
+    "title": "Software Engineering Intern",
+    "org": "Jane Street",
+    "type": "internship",
+    "description": "Build low-latency trading systems and tools; strong emphasis on functional programming and problem solving.",
+    "requirements": "Excellent CS fundamentals; problem solving.",
+    "link": "https://www.janestreet.com/join-jane-street",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_094",
+    "title": "Software Engineer / Quant Intern",
+    "org": "Citadel",
+    "type": "internship",
+    "description": "Develop software or quantitative models supporting trading strategies.",
+    "requirements": "Strong CS/math; coding.",
+    "link": "https://www.citadel.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_095",
+    "title": "Intern",
+    "org": "Two Sigma",
+    "type": "internship",
+    "description": "Apply data science and engineering to modeling financial data and building trading systems.",
+    "requirements": "CS/stats; Python; strong quantitative skills.",
+    "link": "https://www.twosigma.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance",
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_096",
+    "title": "Intern",
+    "org": "Jump Trading",
+    "type": "internship",
+    "description": "Work on high-performance trading systems or quantitative research.",
+    "requirements": "Strong CS/math; C++ or Python.",
+    "link": "https://www.jumptrading.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_097",
+    "title": "Trading / Tech Intern",
+    "org": "IMC Trading",
+    "type": "internship",
+    "description": "Support algorithmic trading through software or quantitative work.",
+    "requirements": "CS/math; problem solving.",
+    "link": "https://careers.imc.com",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_098",
+    "title": "Intern",
+    "org": "Optiver",
+    "type": "internship",
+    "description": "Contribute to trading technology or quantitative research in market making.",
+    "requirements": "Strong quantitative and coding skills.",
+    "link": "https://www.optiver.com/working-at-optiver",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_099",
+    "title": "Intern",
+    "org": "D. E. Shaw Group",
+    "type": "internship",
+    "description": "Work on software or quantitative problems at a systematic investment firm.",
+    "requirements": "Excellent CS/math fundamentals.",
+    "link": "https://www.deshaw.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_100",
+    "title": "Intern",
+    "org": "Akuna Capital",
+    "type": "internship",
+    "description": "Build trading software or perform quantitative research for options market making.",
+    "requirements": "CS/math; C++ or Python.",
+    "link": "https://akunacapital.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_101",
+    "title": "Intern",
+    "org": "Susquehanna (SIG)",
+    "type": "internship",
+    "description": "Support trading, technology, or quantitative research functions.",
+    "requirements": "Quantitative aptitude; coding.",
+    "link": "https://careers.sig.com",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_102",
+    "title": "Engineering Intern",
+    "org": "Goldman Sachs",
+    "type": "internship",
+    "description": "Build software for markets, risk, or platform teams in a financial-services setting.",
+    "requirements": "CS fundamentals; one language.",
+    "link": "https://www.goldmansachs.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "quant_finance",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_103",
+    "title": "Engineering Intern",
+    "org": "Riot Games",
+    "type": "internship",
+    "description": "Build gameplay, platform, or tools software for live games.",
+    "requirements": "C++/C#; CS fundamentals.",
+    "link": "https://www.riotgames.com/en/work-with-us",
+    "date_posted": null,
+    "pathways": [
+      "game_development",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_104",
+    "title": "Intern",
+    "org": "Electronic Arts (EA)",
+    "type": "internship",
+    "description": "Contribute to game engineering, tools, or gameplay across EA studios.",
+    "requirements": "C++/C#; game or graphics interest.",
+    "link": "https://www.ea.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "game_development"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_105",
+    "title": "Intern",
+    "org": "Epic Games",
+    "type": "internship",
+    "description": "Work on Unreal Engine, gameplay, or online systems.",
+    "requirements": "C++; engine or graphics interest.",
+    "link": "https://www.epicgames.com/site/en-US/careers",
+    "date_posted": null,
+    "pathways": [
+      "game_development"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_106",
+    "title": "Intern",
+    "org": "Blizzard Entertainment",
+    "type": "internship",
+    "description": "Support game engineering or tools development on major game titles.",
+    "requirements": "C++/C#; games passion.",
+    "link": "https://careers.blizzard.com",
+    "date_posted": null,
+    "pathways": [
+      "game_development"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_107",
+    "title": "Intern",
+    "org": "Unity Technologies",
+    "type": "internship",
+    "description": "Build features for the Unity engine and creator tools.",
+    "requirements": "C#/C++; graphics or tools interest.",
+    "link": "https://careers.unity.com",
+    "date_posted": null,
+    "pathways": [
+      "game_development",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_108",
+    "title": "Technology Development Intern",
+    "org": "Nintendo",
+    "type": "internship",
+    "description": "Contribute to game platform, tools, or systems technology.",
+    "requirements": "C++; systems or graphics interest.",
+    "link": "https://careers.nintendo.com",
+    "date_posted": null,
+    "pathways": [
+      "game_development"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_109",
+    "title": "Civic Digital Fellowship",
+    "org": "Coding it Forward",
+    "type": "fellowship",
+    "description": "Summer fellowship placing students in federal agencies to work on data science, software, design, or product for the public good.",
+    "requirements": "US undergrad/grad; tech skills; public-interest motivation.",
+    "link": "https://www.codingitforward.com",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech",
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_110",
+    "title": "U.S. Digital Corps Fellowship",
+    "org": "U.S. General Services Administration",
+    "type": "fellowship",
+    "description": "Two-year early-career fellowship building technology for federal agencies in engineering, data, design, or product.",
+    "requirements": "US citizen; early-career technologist.",
+    "link": "https://digitalcorps.gsa.gov",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_111",
+    "title": "Fellowship / Internship",
+    "org": "Code for America",
+    "type": "fellowship",
+    "description": "Work on technology that improves government services and social-safety-net access.",
+    "requirements": "Software, data, or design skills; public-interest focus.",
+    "link": "https://www.codeforamerica.org/careers",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_112",
+    "title": "OSTEM Internship",
+    "org": "NASA",
+    "type": "internship",
+    "description": "Project-based internship across NASA centers in software, data, or engineering supporting missions.",
+    "requirements": "US citizen; STEM student; 3.0+ GPA typical.",
+    "link": "https://intern.nasa.gov",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_113",
+    "title": "Student Intern",
+    "org": "Sandia National Laboratories",
+    "type": "internship",
+    "description": "Support research and engineering across security, computing, and systems projects.",
+    "requirements": "US citizen for many roles; STEM student.",
+    "link": "https://www.sandia.gov/careers",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school",
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_114",
+    "title": "Computing Intern",
+    "org": "Lawrence Livermore National Laboratory",
+    "type": "internship",
+    "description": "Work on high-performance computing, data, or systems research.",
+    "requirements": "US person for many roles; CS/CE.",
+    "link": "https://www.llnl.gov/join-our-team",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school",
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_115",
+    "title": "Software Intern",
+    "org": "MITRE",
+    "type": "internship",
+    "description": "Build software for public-interest projects in federally funded research.",
+    "requirements": "US work authorization; CS.",
+    "link": "https://careers.mitre.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "civic_tech"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_116",
+    "title": "Fellowship",
+    "org": "Draper Laboratory",
+    "type": "internship",
+    "description": "Contribute to embedded, autonomy, or systems engineering on national-interest projects.",
+    "requirements": "US citizen for many roles; EE/CE/CS.",
+    "link": "https://www.draper.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_117",
+    "title": "Generation Google Scholarship",
+    "org": "Google",
+    "type": "scholarship",
+    "description": "Scholarship for students in computing from historically underrepresented groups, with a retreat/community component.",
+    "requirements": "Undergrad in CS or related; demonstrated leadership.",
+    "link": "https://buildyourfuture.withgoogle.com/scholarships",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_118",
+    "title": "Google Lime Scholarship",
+    "org": "Google",
+    "type": "scholarship",
+    "description": "Scholarship supporting students with disabilities pursuing computer science.",
+    "requirements": "Student with a disability; CS major.",
+    "link": "https://buildyourfuture.withgoogle.com/scholarships",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_119",
+    "title": "Research Women in Tech Scholarship",
+    "org": "Adobe",
+    "type": "scholarship",
+    "description": "Scholarship recognizing women and nonbinary students in computing, with a possible internship track.",
+    "requirements": "Undergrad women/nonbinary in CS.",
+    "link": "https://research.adobe.com/scholarship",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_120",
+    "title": "Future Scientist Scholarship",
+    "org": "Palantir",
+    "type": "scholarship",
+    "description": "Scholarship for students from underrepresented groups in STEM, often data/analytics oriented.",
+    "requirements": "Underrepresented STEM undergrad.",
+    "link": "https://www.palantir.com/students/scholarship",
+    "date_posted": null,
+    "pathways": [
+      "data_science",
+      "machine_learning_ai"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_121",
+    "title": "Tuition Scholarship",
+    "org": "Microsoft",
+    "type": "scholarship",
+    "description": "Scholarship supporting undergraduates pursuing computer science and related fields.",
+    "requirements": "CS undergrad; passion for tech.",
+    "link": "https://careers.microsoft.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_122",
+    "title": "SMART Scholarship",
+    "org": "U.S. Department of Defense",
+    "type": "scholarship",
+    "description": "Full scholarship plus stipend and guaranteed employment for STEM students who commit to DoD service.",
+    "requirements": "US citizen; STEM major.",
+    "link": "https://www.smartscholarship.org",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school",
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_123",
+    "title": "Amazon Future Engineer Scholarship",
+    "org": "Amazon",
+    "type": "scholarship",
+    "description": "Scholarship and internship pipeline for students from underserved communities entering CS.",
+    "requirements": "Graduating high-school senior; CS-bound.",
+    "link": "https://www.amazonfutureengineer.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_124",
+    "title": "Diversity in Technology Scholarship",
+    "org": "Cadence",
+    "type": "scholarship",
+    "description": "Scholarship supporting underrepresented students in hardware and electronic design.",
+    "requirements": "EE/CE/CS undergrad.",
+    "link": "https://www.cadence.com",
+    "date_posted": null,
+    "pathways": [
+      "hardware_embedded"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_125",
+    "title": "Aspirations in Computing Award",
+    "org": "NCWIT",
+    "type": "scholarship",
+    "description": "Award recognizing women and nonbinary students for computing achievement and aspiration.",
+    "requirements": "High-school / early undergrad women/nonbinary.",
+    "link": "https://www.aspirations.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_126",
+    "title": "TMCF Tech Scholarships",
+    "org": "Thurgood Marshall College Fund",
+    "type": "scholarship",
+    "description": "Scholarships and career programming for students at HBCUs, including computing tracks.",
+    "requirements": "HBCU student; financial need.",
+    "link": "https://www.tmcf.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_127",
+    "title": "UNCF STEM Scholars",
+    "org": "UNCF",
+    "type": "scholarship",
+    "description": "Scholarship and support program for high-achieving Black students in STEM.",
+    "requirements": "Black STEM undergrad; financial need.",
+    "link": "https://uncf.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_128",
+    "title": "Bloomberg Diversity Scholarship",
+    "org": "Bloomberg",
+    "type": "scholarship",
+    "description": "Scholarship and engineering-community program for underrepresented students in tech.",
+    "requirements": "Undergrad CS; underrepresented in tech.",
+    "link": "https://careers.bloomberg.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_129",
+    "title": "Member Hackathons",
+    "org": "Major League Hacking (MLH)",
+    "type": "hackathon",
+    "description": "Season of student hackathons where teams build a project in a weekend, with mentors and prizes.",
+    "requirements": "Any student; no experience required.",
+    "link": "https://mlh.io",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_130",
+    "title": "HackMIT",
+    "org": "MIT",
+    "type": "hackathon",
+    "description": "Large annual student hackathon building software or hardware projects over a weekend.",
+    "requirements": "College students.",
+    "link": "https://hackmit.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_131",
+    "title": "PennApps",
+    "org": "University of Pennsylvania",
+    "type": "hackathon",
+    "description": "Student hackathon where teams prototype software or hardware projects.",
+    "requirements": "Students; any level.",
+    "link": "https://pennapps.com",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_132",
+    "title": "Student Competitions",
+    "org": "Kaggle",
+    "type": "competition",
+    "description": "Data science and machine learning competitions with public datasets and leaderboards.",
+    "requirements": "Anyone; Python/R helpful.",
+    "link": "https://www.kaggle.com/competitions",
+    "date_posted": null,
+    "pathways": [
+      "data_science",
+      "machine_learning_ai"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_133",
+    "title": "Collegiate Programming Contest (ICPC)",
+    "org": "ICPC",
+    "type": "competition",
+    "description": "Team algorithmic programming contest progressing from regionals to world finals.",
+    "requirements": "College students; DSA and problem solving.",
+    "link": "https://icpc.global",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_134",
+    "title": "picoCTF",
+    "org": "Carnegie Mellon University",
+    "type": "competition",
+    "description": "Beginner-friendly capture-the-flag cybersecurity competition and learning platform.",
+    "requirements": "Students; no experience required.",
+    "link": "https://picoctf.org",
+    "date_posted": null,
+    "pathways": [
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_135",
+    "title": "DeepRacer Student League",
+    "org": "AWS",
+    "type": "competition",
+    "description": "Machine-learning competition where students train reinforcement-learning models for autonomous racing.",
+    "requirements": "Students; intro ML helpful.",
+    "link": "https://student.deepracer.com",
+    "date_posted": null,
+    "pathways": [
+      "machine_learning_ai"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_136",
+    "title": "Congressional App Challenge",
+    "org": "U.S. House of Representatives",
+    "type": "competition",
+    "description": "District-level competition where students build an app addressing a community problem.",
+    "requirements": "Middle/high-school students.",
+    "link": "https://www.congressionalappchallenge.us",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_137",
+    "title": "Technical Interview Prep Course",
+    "org": "CodePath",
+    "type": "program",
+    "description": "Free university-level courses in software engineering, cybersecurity, and interview prep for underrepresented students.",
+    "requirements": "Undergrad; enrolled at partner schools.",
+    "link": "https://www.codepath.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "cybersecurity"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_138",
+    "title": "Fellowship / Community",
+    "org": "Rewriting the Code",
+    "type": "fellowship",
+    "description": "Community and fellowship supporting collegiate women in tech with mentorship and opportunities.",
+    "requirements": "Undergrad/early-career women in tech.",
+    "link": "https://rewritingthecode.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_139",
+    "title": "Membership & Programs",
+    "org": "ColorStack",
+    "type": "program",
+    "description": "National community supporting Black and Latinx computing students with mentorship, events, and opportunities.",
+    "requirements": "Black/Latinx CS undergrad.",
+    "link": "https://www.colorstack.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_140",
+    "title": "Career Prep Program",
+    "org": "Management Leadership for Tomorrow (MLT)",
+    "type": "program",
+    "description": "Structured coaching program preparing underrepresented students for competitive tech and business careers.",
+    "requirements": "Undergrad from underrepresented group.",
+    "link": "https://mlt.org",
+    "date_posted": null,
+    "pathways": [
+      "product_management",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_141",
+    "title": "Grace Hopper Celebration Scholarship",
+    "org": "AnitaB.org",
+    "type": "scholarship",
+    "description": "Scholarship to attend the largest gathering of women and nonbinary technologists, with recruiting and research tracks.",
+    "requirements": "Women/nonbinary students in computing.",
+    "link": "https://ghc.anitab.org",
+    "date_posted": null,
+    "pathways": [
+      "software_engineering",
+      "research_grad_school"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_142",
+    "title": "Tapia Conference Scholarship",
+    "org": "CMD-IT / ACM",
+    "type": "scholarship",
+    "description": "Scholarship to attend the Tapia Celebration of Diversity in Computing, connecting students to research and industry.",
+    "requirements": "Underrepresented computing students.",
+    "link": "https://tapiaconference.cmd-it.org",
+    "date_posted": null,
+    "pathways": [
+      "research_grad_school",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_143",
+    "title": "UX Research Intern",
+    "org": "Google",
+    "type": "internship",
+    "description": "Plan and run user research studies to inform product design decisions.",
+    "requirements": "HCI/psych/design; research methods.",
+    "link": "https://careers.google.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_144",
+    "title": "Product Design Intern",
+    "org": "Airbnb",
+    "type": "internship",
+    "description": "Design end-to-end experiences with prototyping, testing, and cross-functional collaboration.",
+    "requirements": "Design portfolio; interaction design.",
+    "link": "https://careers.airbnb.com",
+    "date_posted": null,
+    "pathways": [
+      "ux_design"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_145",
+    "title": "Product Manager Intern",
+    "org": "Amazon",
+    "type": "internship",
+    "description": "Own product requirements and coordinate delivery across engineering and design.",
+    "requirements": "Analytical; technical literacy.",
+    "link": "https://www.amazon.jobs",
+    "date_posted": null,
+    "pathways": [
+      "product_management"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_146",
+    "title": "Software Engineering Intern",
+    "org": "Roblox",
+    "type": "internship",
+    "description": "Build gameplay, engine, or platform features for a large user-generated gaming platform.",
+    "requirements": "C++/C#/Lua; CS fundamentals.",
+    "link": "https://corp.roblox.com/careers",
+    "date_posted": null,
+    "pathways": [
+      "game_development",
+      "software_engineering"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_147",
+    "title": "Intern",
+    "org": "Ubisoft",
+    "type": "internship",
+    "description": "Contribute to game engineering, tools, or gameplay across Ubisoft studios.",
+    "requirements": "C++/C#; games interest.",
+    "link": "https://www.ubisoft.com/en-us/company/careers",
+    "date_posted": null,
+    "pathways": [
+      "game_development"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_148",
+    "title": "Site Reliability Engineering Intern",
+    "org": "LinkedIn",
+    "type": "internship",
+    "description": "Improve the reliability and scalability of production systems through automation and monitoring.",
+    "requirements": "Linux; one language; systems interest.",
+    "link": "https://careers.linkedin.com",
+    "date_posted": null,
+    "pathways": [
+      "devops_cloud"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_149",
+    "title": "Data Science Fellowship",
+    "org": "DataKind",
+    "type": "fellowship",
+    "description": "Volunteer/fellowship program applying data science to problems for nonprofits and social-good organizations.",
+    "requirements": "Data science skills; public-interest motivation.",
+    "link": "https://www.datakind.org",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech",
+      "data_science"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  },
+  {
+    "id": "opp_150",
+    "title": "Congressional Innovation Scholar",
+    "org": "TechCongress",
+    "type": "fellowship",
+    "description": "Fellowship placing technologists in the U.S. Congress to work on technology policy.",
+    "requirements": "Early-career technologist; policy interest.",
+    "link": "https://www.techcongress.io",
+    "date_posted": null,
+    "pathways": [
+      "civic_tech"
+    ],
+    "verified": false,
+    "date_posted_status": "unknown",
+    "label_review_status": "pending"
+  }
+]
