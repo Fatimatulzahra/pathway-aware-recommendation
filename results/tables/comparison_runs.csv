@@ -1,0 +1,73 @@
+﻿profile_id,profile_name,method,k,returned_count
+student_01,Software development interests,keyword,5,5
+student_01,Software development interests,keyword,10,10
+student_01,Software development interests,keyword,20,20
+student_01,Software development interests,tfidf,5,5
+student_01,Software development interests,tfidf,10,10
+student_01,Software development interests,tfidf,20,20
+student_02,Data analytics interests,keyword,5,5
+student_02,Data analytics interests,keyword,10,10
+student_02,Data analytics interests,keyword,20,20
+student_02,Data analytics interests,tfidf,5,5
+student_02,Data analytics interests,tfidf,10,10
+student_02,Data analytics interests,tfidf,20,20
+student_03,Machine learning interests,keyword,5,5
+student_03,Machine learning interests,keyword,10,10
+student_03,Machine learning interests,keyword,20,20
+student_03,Machine learning interests,tfidf,5,5
+student_03,Machine learning interests,tfidf,10,10
+student_03,Machine learning interests,tfidf,20,20
+student_04,Cybersecurity interests,keyword,5,5
+student_04,Cybersecurity interests,keyword,10,10
+student_04,Cybersecurity interests,keyword,20,14
+student_04,Cybersecurity interests,tfidf,5,5
+student_04,Cybersecurity interests,tfidf,10,10
+student_04,Cybersecurity interests,tfidf,20,14
+student_05,Research and graduate study interests,keyword,5,5
+student_05,Research and graduate study interests,keyword,10,10
+student_05,Research and graduate study interests,keyword,20,20
+student_05,Research and graduate study interests,tfidf,5,5
+student_05,Research and graduate study interests,tfidf,10,10
+student_05,Research and graduate study interests,tfidf,20,20
+student_06,Hardware and embedded interests,keyword,5,5
+student_06,Hardware and embedded interests,keyword,10,10
+student_06,Hardware and embedded interests,keyword,20,14
+student_06,Hardware and embedded interests,tfidf,5,5
+student_06,Hardware and embedded interests,tfidf,10,10
+student_06,Hardware and embedded interests,tfidf,20,14
+student_07,Cloud infrastructure interests,keyword,5,5
+student_07,Cloud infrastructure interests,keyword,10,10
+student_07,Cloud infrastructure interests,keyword,20,11
+student_07,Cloud infrastructure interests,tfidf,5,5
+student_07,Cloud infrastructure interests,tfidf,10,10
+student_07,Cloud infrastructure interests,tfidf,20,11
+student_08,Product management interests,keyword,5,5
+student_08,Product management interests,keyword,10,10
+student_08,Product management interests,keyword,20,20
+student_08,Product management interests,tfidf,5,5
+student_08,Product management interests,tfidf,10,10
+student_08,Product management interests,tfidf,20,20
+student_09,User experience interests,keyword,5,5
+student_09,User experience interests,keyword,10,10
+student_09,User experience interests,keyword,20,20
+student_09,User experience interests,tfidf,5,5
+student_09,User experience interests,tfidf,10,10
+student_09,User experience interests,tfidf,20,20
+student_10,Quantitative finance interests,keyword,5,5
+student_10,Quantitative finance interests,keyword,10,10
+student_10,Quantitative finance interests,keyword,20,16
+student_10,Quantitative finance interests,tfidf,5,5
+student_10,Quantitative finance interests,tfidf,10,10
+student_10,Quantitative finance interests,tfidf,20,16
+student_11,Game development interests,keyword,5,5
+student_11,Game development interests,keyword,10,10
+student_11,Game development interests,keyword,20,10
+student_11,Game development interests,tfidf,5,5
+student_11,Game development interests,tfidf,10,10
+student_11,Game development interests,tfidf,20,10
+student_12,Public interest technology interests,keyword,5,5
+student_12,Public interest technology interests,keyword,10,10
+student_12,Public interest technology interests,keyword,20,14
+student_12,Public interest technology interests,tfidf,5,5
+student_12,Public interest technology interests,tfidf,10,10
+student_12,Public interest technology interests,tfidf,20,14

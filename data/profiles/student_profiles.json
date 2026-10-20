@@ -1,0 +1,74 @@
+[
+  {
+    "id": "student_01",
+    "name": "Software development interests",
+    "target_pathways": ["software_engineering"],
+    "query": "software development backend APIs web applications Java"
+  },
+  {
+    "id": "student_02",
+    "name": "Data analytics interests",
+    "target_pathways": ["data_science"],
+    "query": "data analysis statistics SQL dashboards visualization"
+  },
+  {
+    "id": "student_03",
+    "name": "Machine learning interests",
+    "target_pathways": ["machine_learning_ai"],
+    "query": "machine learning artificial intelligence deep learning models Python"
+  },
+  {
+    "id": "student_04",
+    "name": "Cybersecurity interests",
+    "target_pathways": ["cybersecurity"],
+    "query": "cybersecurity security threat detection cryptography incident response"
+  },
+  {
+    "id": "student_05",
+    "name": "Research and graduate study interests",
+    "target_pathways": ["research_grad_school"],
+    "query": "undergraduate research faculty mentorship scientific investigation graduate study"
+  },
+  {
+    "id": "student_06",
+    "name": "Hardware and embedded interests",
+    "target_pathways": ["hardware_embedded"],
+    "query": "embedded firmware microcontrollers FPGA hardware"
+  },
+  {
+    "id": "student_07",
+    "name": "Cloud infrastructure interests",
+    "target_pathways": ["devops_cloud"],
+    "query": "cloud infrastructure deployment containers reliability DevOps"
+  },
+  {
+    "id": "student_08",
+    "name": "Product management interests",
+    "target_pathways": ["product_management"],
+    "query": "product management strategy roadmap requirements customer needs"
+  },
+  {
+    "id": "student_09",
+    "name": "User experience interests",
+    "target_pathways": ["ux_design"],
+    "query": "user research usability interaction design accessibility"
+  },
+  {
+    "id": "student_10",
+    "name": "Quantitative finance interests",
+    "target_pathways": ["quant_finance"],
+    "query": "quantitative finance trading financial markets risk modeling"
+  },
+  {
+    "id": "student_11",
+    "name": "Game development interests",
+    "target_pathways": ["game_development"],
+    "query": "game development graphics gameplay Unity Unreal"
+  },
+  {
+    "id": "student_12",
+    "name": "Public interest technology interests",
+    "target_pathways": ["civic_tech"],
+    "query": "civic technology government nonprofit public interest social impact"
+  }
+]
