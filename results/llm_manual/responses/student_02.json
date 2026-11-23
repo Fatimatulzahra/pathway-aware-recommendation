@@ -1,0 +1,65 @@
+{
+"profile_id": "student_02",
+"recommendations": [
+{
+"opportunity_id": "opp_027",
+"reason": "Directly matches the student's interests through data cleaning, analysis, visualization, dashboard development, and a SQL requirement."
+},
+{
+"opportunity_id": "opp_023",
+"reason": "Uses statistics, experimentation, and SQL to measure product impact and inform decisions."
+},
+{
+"opportunity_id": "opp_024",
+"reason": "Involves analyzing marketplace data and running experiments, with statistics and SQL among the requirements."
+},
+{
+"opportunity_id": "opp_026",
+"reason": "Applies statistics and experimentation to listener behavior and product performance, and requires SQL."
+},
+{
+"opportunity_id": "opp_029",
+"reason": "Uses experiments and analysis to guide recommendations and growth decisions, with statistics and SQL among the requirements."
+},
+{
+"opportunity_id": "opp_030",
+"reason": "Applies statistical modeling and experimentation to pricing, logistics, or marketing analytics, and requires SQL."
+},
+{
+"opportunity_id": "opp_031",
+"reason": "Produces analyses and models from large media-measurement datasets and requires statistics and SQL."
+},
+{
+"opportunity_id": "opp_028",
+"reason": "Applies analytics and modeling to financial-services data, with statistics and SQL among the requirements."
+},
+{
+"opportunity_id": "opp_025",
+"reason": "Builds analyses and models on large datasets to support personalization and content decisions, and requires SQL."
+},
+{
+"opportunity_id": "opp_095",
+"reason": "Applies data science to modeling financial data and lists a computer science or statistics background."
+},
+{
+"opportunity_id": "opp_149",
+"reason": "Applies data science to problems for nonprofits and social-good organizations."
+},
+{
+"opportunity_id": "opp_132",
+"reason": "Offers data science competitions with public datasets that students can analyze and model."
+},
+{
+"opportunity_id": "opp_109",
+"reason": "Offers federal agency placements that can involve applied data science."
+},
+{
+"opportunity_id": "opp_110",
+"reason": "Includes data-focused work as one of its federal technology fellowship tracks."
+},
+{
+"opportunity_id": "opp_112",
+"reason": "Includes data-focused projects that support NASA missions."
+}
+]
+}

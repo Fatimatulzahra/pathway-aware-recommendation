@@ -1,0 +1,45 @@
+{
+"profile_id": "student_11",
+"recommendations": [
+{
+"opportunity_id": "opp_105",
+"reason": "Offers work on Unreal Engine or gameplay and seeks C++ skills and an interest in engines or graphics."
+},
+{
+"opportunity_id": "opp_107",
+"reason": "Builds features for the Unity engine and creator tools and seeks an interest in graphics or tooling."
+},
+{
+"opportunity_id": "opp_146",
+"reason": "Builds gameplay, engine, or platform features for a user-generated gaming platform."
+},
+{
+"opportunity_id": "opp_104",
+"reason": "Offers gameplay, game engineering, or tools work and explicitly seeks an interest in games or graphics."
+},
+{
+"opportunity_id": "opp_103",
+"reason": "Builds gameplay, platform, or tools software for live games using C++ or C#."
+},
+{
+"opportunity_id": "opp_147",
+"reason": "Offers gameplay, game engineering, or tools work across Ubisoft studios and lists C++ or C#."
+},
+{
+"opportunity_id": "opp_108",
+"reason": "Contributes to game platforms, tools, or systems and seeks an interest in graphics or systems."
+},
+{
+"opportunity_id": "opp_106",
+"reason": "Supports game engineering or tool development on major game titles and lists C++ or C#."
+},
+{
+"opportunity_id": "opp_065",
+"reason": "Offers GPU hardware design and verification, which connects to the hardware side of graphics."
+},
+{
+"opportunity_id": "opp_066",
+"reason": "Includes GPU design, verification, or physical implementation as possible work, providing a graphics hardware connection."
+}
+]
+}

@@ -1,0 +1,81 @@
+{
+"profile_id": "student_12",
+"recommendations": [
+{
+"opportunity_id": "opp_111",
+"reason": "Uses technology to improve government services and expand access to the social safety net."
+},
+{
+"opportunity_id": "opp_109",
+"reason": "Places students in federal agencies to work on software, data science, design, or product projects for the public good."
+},
+{
+"opportunity_id": "opp_149",
+"reason": "Applies data science to problems faced by nonprofits and social-good organizations."
+},
+{
+"opportunity_id": "opp_110",
+"reason": "Builds technology for federal agencies through engineering, data, design, or product work."
+},
+{
+"opportunity_id": "opp_115",
+"reason": "Involves building software for public-interest projects in federally funded research."
+},
+{
+"opportunity_id": "opp_150",
+"reason": "Places technologists in the U.S. Congress to work on technology policy."
+},
+{
+"opportunity_id": "opp_136",
+"reason": "Challenges students to build an app that addresses a community problem."
+},
+{
+"opportunity_id": "opp_044",
+"reason": "Funds cybersecurity education in exchange for post-graduation government service."
+},
+{
+"opportunity_id": "opp_112",
+"reason": "Offers software, data, or engineering projects that support NASA missions."
+},
+{
+"opportunity_id": "opp_116",
+"reason": "Applies embedded, autonomy, or systems engineering to national-interest projects."
+},
+{
+"opportunity_id": "opp_043",
+"reason": "Provides hands-on cybersecurity experience in a federal security setting."
+},
+{
+"opportunity_id": "opp_122",
+"reason": "Links STEM scholarship funding and guaranteed employment to a Department of Defense service commitment."
+},
+{
+"opportunity_id": "opp_046",
+"reason": "Supports cybersecurity research and engineering on federally funded projects."
+},
+{
+"opportunity_id": "opp_050",
+"reason": "Includes cybersecurity consulting engagements for government clients."
+},
+{
+"opportunity_id": "opp_070",
+"reason": "Applies flight software, robotics, or embedded systems engineering to space missions at JPL."
+},
+{
+"opportunity_id": "opp_021",
+"reason": "Combines paid open-source contributions with an explicit aim to broaden participation in tech."
+},
+{
+"opportunity_id": "opp_041",
+"reason": "Broadens access to AI education for underrepresented students through mentored research and an ethics curriculum."
+},
+{
+"opportunity_id": "opp_137",
+"reason": "Expands access to computing education through free software engineering and cybersecurity courses for underrepresented students."
+},
+{
+"opportunity_id": "opp_123",
+"reason": "Expands access to computer science education and internships for students from underserved communities."
+}
+]
+}

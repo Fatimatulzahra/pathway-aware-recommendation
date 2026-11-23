@@ -1,0 +1,10 @@
+{
+  "protocol": "manual_semantic_ranking_v1",
+  "corpus_sha256": "3537f1c5eaf7b0a822cf4601f2b71c131fb573644c404047624d12ce9cf129fb",
+  "profiles": 12,
+  "candidate_count": 150,
+  "requested_max_results": 20,
+  "human_pathway_labels_supplied": false,
+  "relevance_ratings_supplied": false,
+  "note": "One fresh chat per profile; retain the first valid response."
+}

@@ -1,0 +1,85 @@
+{
+"profile_id": "student_01",
+"recommendations": [
+{
+"opportunity_id": "opp_007",
+"reason": "Builds payments software and developer-facing APIs and calls for experience with a backend language."
+},
+{
+"opportunity_id": "opp_004",
+"reason": "Involves building and shipping backend or full-stack services and owning a defined software project end to end."
+},
+{
+"opportunity_id": "opp_008",
+"reason": "Ships customer-facing features on a full-stack team and explicitly calls for web or backend experience."
+},
+{
+"opportunity_id": "opp_013",
+"reason": "Builds merchant-facing features for a commerce platform and calls for web development fundamentals."
+},
+{
+"opportunity_id": "opp_006",
+"reason": "Develops financial software features and data infrastructure, with Java listed as one of the qualifying languages."
+},
+{
+"opportunity_id": "opp_009",
+"reason": "Develops cloud application features and calls for object-oriented programming skills."
+},
+{
+"opportunity_id": "opp_014",
+"reason": "Builds application and data-integration software for customer problems, aligning with application development and backend integration."
+},
+{
+"opportunity_id": "opp_078",
+"reason": "Builds monitoring and observability features for a distributed platform and calls for a backend language."
+},
+{
+"opportunity_id": "opp_074",
+"reason": "Offers work building or operating large-scale cloud services, which overlaps with backend service engineering."
+},
+{
+"opportunity_id": "opp_075",
+"reason": "Develops software features or tools for cloud infrastructure and platform services."
+},
+{
+"opportunity_id": "opp_018",
+"reason": "Develops features for a professional networking product and calls for object-oriented programming."
+},
+{
+"opportunity_id": "opp_011",
+"reason": "Contributes production code for sync, sharing, or platform features, with a connection to application and backend development."
+},
+{
+"opportunity_id": "opp_012",
+"reason": "Builds software features for creative or document cloud products."
+},
+{
+"opportunity_id": "opp_017",
+"reason": "Develops features across rider, driver, or platform systems, connecting to application and platform software development."
+},
+{
+"opportunity_id": "opp_003",
+"reason": "Includes hands-on app development alongside mentorship and technical coaching."
+},
+{
+"opportunity_id": "opp_016",
+"reason": "Involves working on production communications software, aligning with practical software development."
+},
+{
+"opportunity_id": "opp_005",
+"reason": "Offers production software development on application, platform, or systems teams."
+},
+{
+"opportunity_id": "opp_001",
+"reason": "Involves implementing product features in a large codebase with an engineering team."
+},
+{
+"opportunity_id": "opp_102",
+"reason": "Involves building software for markets, risk, or platform teams, with platform development providing the closest fit."
+},
+{
+"opportunity_id": "opp_015",
+"reason": "Provides hands-on software development through a team project that produces a working prototype."
+}
+]
+}

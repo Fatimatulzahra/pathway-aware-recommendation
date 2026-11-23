@@ -1,0 +1,85 @@
+{
+"profile_id": "student_05",
+"recommendations": [
+{
+"opportunity_id": "opp_053",
+"reason": "Pairs undergraduates with a faculty mentor for a funded summer research project at another institution."
+},
+{
+"opportunity_id": "opp_057",
+"reason": "Offers undergraduate computer science research with both faculty and PhD mentors."
+},
+{
+"opportunity_id": "opp_059",
+"reason": "Offers undergraduate summer research with mentorship from faculty and graduate students."
+},
+{
+"opportunity_id": "opp_056",
+"reason": "Combines funded undergraduate summer research with faculty mentorship."
+},
+{
+"opportunity_id": "opp_058",
+"reason": "Offers mentored undergraduate lab research that culminates in a poster or paper."
+},
+{
+"opportunity_id": "opp_054",
+"reason": "Funds undergraduate research in a university lab, with findings presented in a paper or poster."
+},
+{
+"opportunity_id": "opp_092",
+"reason": "Offers mentored undergraduate research in human-computer interaction that culminates in a poster or paper."
+},
+{
+"opportunity_id": "opp_060",
+"reason": "Provides summer research experience in electrical engineering and computer science for undergraduates."
+},
+{
+"opportunity_id": "opp_055",
+"reason": "Connects undergraduates with computing researchers through structured mentorship to explore CS research."
+},
+{
+"opportunity_id": "opp_041",
+"reason": "Introduces early undergraduates to scientific investigation in AI through a mentored research project."
+},
+{
+"opportunity_id": "opp_063",
+"reason": "Supports graduate STEM research and is open to graduating seniors as well as early graduate students."
+},
+{
+"opportunity_id": "opp_035",
+"reason": "Pairs an AI or machine learning research project with mentorship and the chance to contribute to a paper."
+},
+{
+"opportunity_id": "opp_033",
+"reason": "Involves conducting machine learning research alongside scientists with the goal of producing publishable results."
+},
+{
+"opportunity_id": "opp_039",
+"reason": "Offers hands-on research in AI or computing systems with the possibility of publication."
+},
+{
+"opportunity_id": "opp_040",
+"reason": "Offers advanced machine learning research with a scientific team."
+},
+{
+"opportunity_id": "opp_034",
+"reason": "Provides experience investigating fundamental or applied AI questions with a research team."
+},
+{
+"opportunity_id": "opp_114",
+"reason": "Offers computing research experience in high-performance computing, data, or systems."
+},
+{
+"opportunity_id": "opp_113",
+"reason": "Offers STEM students experience supporting research and engineering projects in computing, systems, or security."
+},
+{
+"opportunity_id": "opp_062",
+"reason": "Helps graduate-bound students pursue a STEM graduate degree through funding paired with a corporate internship."
+},
+{
+"opportunity_id": "opp_061",
+"reason": "Funds computing research during doctoral study and requires current PhD enrollment."
+}
+]
+}

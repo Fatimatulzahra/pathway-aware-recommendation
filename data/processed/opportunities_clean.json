@@ -7,13 +7,10 @@
     "description": "First- and second-year focused software engineering internship building product features in a large codebase with a mentor and a small project team.",
     "requirements": "1st/2nd-year undergrad; data structures & algorithms; one programming language.",
     "link": "https://buildyourfuture.withgoogle.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_002",
@@ -23,14 +20,11 @@
     "description": "12-week program for early undergrads that rotates a cohort through both software engineering and product management to sample each track.",
     "requirements": "1st/2nd-year undergrad; intro CS coursework.",
     "link": "https://careers.microsoft.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_003",
@@ -40,13 +34,10 @@
     "description": "Paid internship for rising sophomores from underrepresented groups, pairing app-building work with mentorship and technical coaching.",
     "requirements": "Rising sophomore; some coding experience.",
     "link": "https://www.metacareers.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_004",
@@ -56,13 +47,10 @@
     "description": "Build and ship backend or full-stack services at scale; own a defined project end to end with a team of engineers.",
     "requirements": "Undergrad in CS or related; proficiency in one language; DSA.",
     "link": "https://www.amazon.jobs",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_005",
@@ -72,13 +60,10 @@
     "description": "Contribute production code to platform, application, or systems software teams across the company.",
     "requirements": "Undergrad CS; strong programming fundamentals.",
     "link": "https://jobs.apple.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_006",
@@ -88,13 +73,10 @@
     "description": "Develop features for financial software and data infrastructure used by markets professionals worldwide.",
     "requirements": "Undergrad CS; C++/Python/Java; DSA.",
     "link": "https://careers.bloomberg.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_007",
@@ -104,13 +86,10 @@
     "description": "Build reliable payments and developer-facing APIs; write production code with mentorship.",
     "requirements": "Undergrad; strong CS fundamentals; one backend language.",
     "link": "https://stripe.com/jobs",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_008",
@@ -120,13 +99,10 @@
     "description": "Ship features across collaboration products; work in a full-stack team on real customer-facing problems.",
     "requirements": "Undergrad CS; web or backend experience.",
     "link": "https://www.atlassian.com/company/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_009",
@@ -136,13 +112,10 @@
     "description": "Develop cloud application features within the Futureforce university program with mentorship and cohort events.",
     "requirements": "Undergrad CS; OOP; one language.",
     "link": "https://www.salesforce.com/company/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_010",
@@ -152,13 +125,10 @@
     "description": "Apprenticeship for non-traditional and underrepresented candidates building product features with dedicated mentoring.",
     "requirements": "Some programming experience; bootcamp or self-taught welcome.",
     "link": "https://www.pinterestcareers.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_011",
@@ -168,13 +138,10 @@
     "description": "Work on sync, sharing, or platform features; contribute production code to a product used by millions.",
     "requirements": "Undergrad CS; one language; DSA.",
     "link": "https://www.dropbox.com/jobs",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_012",
@@ -184,13 +151,10 @@
     "description": "Build features for creative or document cloud products alongside a full engineering team.",
     "requirements": "Undergrad CS; proficiency in one language.",
     "link": "https://careers.adobe.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_013",
@@ -200,13 +164,10 @@
     "description": "Hands-on commerce-platform engineering combined with structured learning; build merchant-facing features.",
     "requirements": "Undergrad; web development basics.",
     "link": "https://www.shopify.com/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_014",
@@ -216,13 +177,10 @@
     "description": "Build data-integration and application software deployed against real customer problems.",
     "requirements": "Undergrad CS; strong programming; DSA.",
     "link": "https://www.palantir.com/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_015",
@@ -232,13 +190,10 @@
     "description": "Team-based internship building a working software prototype around a business problem, presented to leadership.",
     "requirements": "Undergrad CS; programming experience.",
     "link": "https://www.ibm.com/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_016",
@@ -248,13 +203,10 @@
     "description": "Apprenticeship onboarding early-career and non-traditional engineers onto production communications software.",
     "requirements": "Foundational programming; non-traditional backgrounds welcome.",
     "link": "https://www.twilio.com/company/jobs",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_017",
@@ -264,13 +216,10 @@
     "description": "Build features across rider, driver, or platform systems in a high-scale environment.",
     "requirements": "Undergrad CS; one language; DSA.",
     "link": "https://www.uber.com/careers",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_018",
@@ -280,13 +229,10 @@
     "description": "Develop features for the professional network with mentorship geared to underrepresented students.",
     "requirements": "Undergrad CS; OOP.",
     "link": "https://careers.linkedin.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_019",
@@ -296,14 +242,11 @@
     "description": "12-week remote fellowship contributing to open-source projects with a focus on software and infrastructure, in small pods with mentors.",
     "requirements": "Open to students; Git and one language.",
     "link": "https://fellowship.mlh.io",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_020",
@@ -313,13 +256,10 @@
     "description": "Paid remote program where students contribute a defined coding project to an open-source organization over the summer.",
     "requirements": "18+; able to contribute to open source.",
     "link": "https://summerofcode.withgoogle.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_021",
@@ -329,13 +269,10 @@
     "description": "Paid remote internship contributing to open source, aimed at people underrepresented in tech.",
     "requirements": "Underrepresented in tech; open-source contribution.",
     "link": "https://www.outreachy.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_022",
@@ -345,13 +282,10 @@
     "description": "Program pairing technical writers and developers to improve open-source project documentation.",
     "requirements": "Technical writing or dev experience.",
     "link": "https://developers.google.com/season-of-docs",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_023",
@@ -361,13 +295,10 @@
     "description": "Use experimentation, statistics, and SQL/Python to inform product decisions and measure impact.",
     "requirements": "Stats/CS coursework; SQL; Python or R.",
     "link": "https://www.metacareers.com",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_024",
@@ -377,13 +308,10 @@
     "description": "Analyze marketplace data and run experiments to guide product and business decisions.",
     "requirements": "Statistics; SQL; Python/R.",
     "link": "https://careers.airbnb.com",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_025",
@@ -393,14 +321,11 @@
     "description": "Build models and analyses supporting personalization and content decisions on large datasets.",
     "requirements": "ML or stats background; Python; SQL.",
     "link": "https://jobs.netflix.com",
-    "date_posted": null,
     "pathways": [
       "data_science",
       "machine_learning_ai"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_026",
@@ -410,13 +335,10 @@
     "description": "Apply statistics and experimentation to understand listener behavior and product performance.",
     "requirements": "Stats; SQL; Python/R.",
     "link": "https://www.lifeatspotify.com",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_027",
@@ -426,13 +348,10 @@
     "description": "Clean, analyze, and visualize data to support business decisions; build dashboards and reports.",
     "requirements": "SQL; Python or R; analytics coursework.",
     "link": "https://www.capitalonecareers.com",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_028",
@@ -442,14 +361,11 @@
     "description": "Apply analytics and modeling to risk, marketing, or customer data in a financial-services setting.",
     "requirements": "Statistics; Python/R; SQL.",
     "link": "https://www.americanexpress.com/en-us/careers",
-    "date_posted": null,
     "pathways": [
       "data_science",
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_029",
@@ -459,13 +375,10 @@
     "description": "Run experiments and build analyses that shape recommendations and growth decisions.",
     "requirements": "Stats; SQL; Python.",
     "link": "https://www.pinterestcareers.com",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_030",
@@ -475,13 +388,10 @@
     "description": "Support pricing, logistics, or marketing analytics with statistical modeling and experimentation.",
     "requirements": "Stats/CS; SQL; Python/R.",
     "link": "https://www.aboutwayfair.com/careers",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_031",
@@ -491,13 +401,10 @@
     "description": "Work with large media-measurement datasets to produce analyses and models.",
     "requirements": "Statistics; Python/R; SQL.",
     "link": "https://www.nielsen.com/careers",
-    "date_posted": null,
     "pathways": [
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_032",
@@ -507,14 +414,11 @@
     "description": "Develop and optimize deep learning models and the systems that train them on GPU hardware.",
     "requirements": "ML coursework; Python; PyTorch/TensorFlow.",
     "link": "https://www.nvidia.com/en-us/about-nvidia/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_033",
@@ -524,14 +428,11 @@
     "description": "Conduct machine learning research alongside scientists, aiming at a publishable result.",
     "requirements": "Strong ML background; research experience a plus.",
     "link": "https://research.google/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_034",
@@ -541,14 +442,11 @@
     "description": "Work on fundamental or applied AI research problems with a research team.",
     "requirements": "ML depth; coding; research orientation.",
     "link": "https://ai.meta.com",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_035",
@@ -558,14 +456,11 @@
     "description": "Pursue an AI/ML research project with a mentor, contributing toward a paper.",
     "requirements": "ML/AI coursework or research; Python.",
     "link": "https://www.microsoft.com/en-us/research/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_036",
@@ -575,14 +470,11 @@
     "description": "Program helping people from adjacent fields transition into AI research and engineering.",
     "requirements": "Strong quantitative background; programming.",
     "link": "https://openai.com/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_037",
@@ -592,13 +484,10 @@
     "description": "Build ML features for on-device intelligence and applications.",
     "requirements": "ML coursework; Python; one DL framework.",
     "link": "https://jobs.apple.com",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_038",
@@ -608,14 +497,11 @@
     "description": "Develop and evaluate ML models for search, recommendations, or operations; often paper-oriented.",
     "requirements": "ML depth; strong coding; often PhD-track.",
     "link": "https://www.amazon.science/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_039",
@@ -625,14 +511,11 @@
     "description": "Contribute to AI or systems research projects with the possibility of publication.",
     "requirements": "Research interest; coding; ML or systems background.",
     "link": "https://research.ibm.com/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_040",
@@ -642,14 +525,11 @@
     "description": "Work on advanced machine learning research with a scientific team.",
     "requirements": "Strong ML/math; research experience.",
     "link": "https://deepmind.google/about/careers",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_041",
@@ -659,14 +539,11 @@
     "description": "Introduces students from underrepresented groups to AI through a mentored research project and ethics curriculum.",
     "requirements": "High school / early undergrad; no prior AI required.",
     "link": "https://ai-4-all.org",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_042",
@@ -676,14 +553,11 @@
     "description": "Machine learning skilling program for undergrad women and nonbinary students, including a real-world ML studio project.",
     "requirements": "Undergrad; enrolled at partner schools; some coding.",
     "link": "https://www.breakthroughtech.org",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_043",
@@ -693,13 +567,10 @@
     "description": "Hands-on work in network defense, reverse engineering, or vulnerability analysis within a federal security setting.",
     "requirements": "US citizen; security clearance eligible; CS coursework.",
     "link": "https://www.intelligencecareers.gov/nsa",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_044",
@@ -709,14 +580,11 @@
     "description": "Full scholarship plus stipend in exchange for post-graduation government cybersecurity service.",
     "requirements": "US citizen; enrolled in a participating security program.",
     "link": "https://sfs.opm.gov",
-    "date_posted": null,
     "pathways": [
       "cybersecurity",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_045",
@@ -726,13 +594,10 @@
     "description": "Annual reverse-engineering and cybersecurity challenge series for students, from easy to expert.",
     "requirements": "US-based students; interest in security.",
     "link": "https://nsa-codebreaker.org",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_046",
@@ -742,14 +607,11 @@
     "description": "Support security research and engineering on federally funded projects.",
     "requirements": "US work authorization; security interest; CS.",
     "link": "https://careers.mitre.org",
-    "date_posted": null,
     "pathways": [
       "cybersecurity",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_047",
@@ -759,13 +621,10 @@
     "description": "Work on threat detection, product security, or security research with a security-products company.",
     "requirements": "Networking/security coursework; scripting.",
     "link": "https://jobs.paloaltonetworks.com",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_048",
@@ -775,13 +634,10 @@
     "description": "Contribute to endpoint protection, threat intel, or detection engineering.",
     "requirements": "Security interest; scripting; some systems knowledge.",
     "link": "https://www.crowdstrike.com/careers",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_049",
@@ -791,14 +647,11 @@
     "description": "Build or test secure networking and cloud-security features.",
     "requirements": "Networking basics; one scripting language.",
     "link": "https://jobs.cisco.com",
-    "date_posted": null,
     "pathways": [
       "cybersecurity",
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_050",
@@ -808,13 +661,10 @@
     "description": "Apply cybersecurity skills on consulting engagements for government and commercial clients.",
     "requirements": "US work authorization; security coursework.",
     "link": "https://careers.boozallen.com",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_051",
@@ -824,13 +674,10 @@
     "description": "National capture-the-flag competition that awards cybersecurity training scholarships to top student performers.",
     "requirements": "US college students; no prior experience required.",
     "link": "https://www.sans.org",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_052",
@@ -840,13 +687,10 @@
     "description": "Work on product security, detection, or privacy engineering at scale.",
     "requirements": "Security fundamentals; coding.",
     "link": "https://www.metacareers.com",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_053",
@@ -856,13 +700,10 @@
     "description": "Matches undergrads from underrepresented groups with a faculty mentor for a funded summer research project at another institution.",
     "requirements": "Undergrad; underrepresented in computing; 3.0+ GPA typical.",
     "link": "https://cra.org/cra-wp/dreu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_054",
@@ -872,13 +713,10 @@
     "description": "Funded summer research at a host university lab, culminating in a paper or poster; sites span many CS subfields.",
     "requirements": "US undergrad; varies by site.",
     "link": "https://www.nsf.gov/crssprgm/reu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_055",
@@ -888,13 +726,10 @@
     "description": "Structured mentorship connecting students from underrepresented groups with Google researchers to explore CS research.",
     "requirements": "Undergrad/grad interested in CS research.",
     "link": "https://research.google/programs-and-events/csrmp",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_056",
@@ -904,13 +739,10 @@
     "description": "Funded summer research at MIT for undergrads underrepresented in their field, with faculty mentorship.",
     "requirements": "Rising junior/senior; research interest.",
     "link": "https://oge.mit.edu/msrp",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_057",
@@ -920,13 +752,10 @@
     "description": "Undergraduate computer science research with Stanford faculty and PhD mentors over the summer.",
     "requirements": "Undergrad; CS coursework.",
     "link": "https://curis.stanford.edu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_058",
@@ -936,13 +765,10 @@
     "description": "Mentored summer research across CMU labs, ending in a poster or paper.",
     "requirements": "Undergrad; research interest.",
     "link": "https://www.cmu.edu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_059",
@@ -952,13 +778,10 @@
     "description": "Summer research in the Paul G. Allen School with faculty and grad-student mentorship.",
     "requirements": "Undergrad; CS background.",
     "link": "https://www.cs.washington.edu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_060",
@@ -968,13 +791,10 @@
     "description": "Summer research program in EECS for undergrads from underrepresented groups.",
     "requirements": "Rising senior; EECS coursework.",
     "link": "https://eecs.berkeley.edu",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_061",
@@ -984,13 +804,10 @@
     "description": "Fellowship supporting graduate students pursuing research in computer science and related fields.",
     "requirements": "PhD student; strong research record.",
     "link": "https://research.google/programs-and-events/phd-fellowship",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_062",
@@ -1000,13 +817,10 @@
     "description": "Funds underrepresented students pursuing graduate STEM degrees, paired with a corporate internship.",
     "requirements": "US citizen/PR; underrepresented in STEM; grad-bound.",
     "link": "https://www.gemfellowship.org",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_063",
@@ -1016,13 +830,10 @@
     "description": "Prestigious fellowship funding early-career graduate researchers in STEM fields.",
     "requirements": "US citizen; early grad or graduating senior.",
     "link": "https://www.nsfgrfp.org",
-    "date_posted": null,
     "pathways": [
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_064",
@@ -1032,13 +843,10 @@
     "description": "Contribute to chip design, validation, or computer-architecture work.",
     "requirements": "EE/CE/CS; digital logic; Verilog a plus.",
     "link": "https://jobs.intel.com",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_065",
@@ -1048,13 +856,10 @@
     "description": "Work on GPU or accelerator hardware design and verification.",
     "requirements": "EE/CE; RTL/Verilog; architecture.",
     "link": "https://www.nvidia.com/en-us/about-nvidia/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_066",
@@ -1064,13 +869,10 @@
     "description": "Support processor or GPU design, verification, or physical implementation.",
     "requirements": "EE/CE; digital design.",
     "link": "https://careers.amd.com",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_067",
@@ -1080,13 +882,10 @@
     "description": "Work across embedded, wireless, or SoC engineering teams.",
     "requirements": "EE/CE/CS; C/C++; embedded basics.",
     "link": "https://www.qualcomm.com/company/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_068",
@@ -1096,14 +895,11 @@
     "description": "Develop embedded firmware for vehicle or energy systems.",
     "requirements": "C/C++; microcontrollers; EE/CE/CS.",
     "link": "https://www.tesla.com/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_069",
@@ -1113,13 +909,10 @@
     "description": "Contribute to robot software, controls, or embedded systems.",
     "requirements": "Robotics/controls; C++/Python.",
     "link": "https://bostondynamics.com/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_070",
@@ -1129,14 +922,11 @@
     "description": "Work on flight software, robotics, or embedded systems for space missions.",
     "requirements": "US person for some roles; CS/CE/EE.",
     "link": "https://www.jpl.nasa.gov/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_071",
@@ -1146,13 +936,10 @@
     "description": "Support processor IP design, verification, or embedded software.",
     "requirements": "EE/CE/CS; computer architecture.",
     "link": "https://careers.arm.com",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_072",
@@ -1162,14 +949,11 @@
     "description": "Build flight or ground software and embedded systems for launch vehicles.",
     "requirements": "C++/Python; strong CS fundamentals; US person for many roles.",
     "link": "https://www.spacex.com/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_073",
@@ -1179,13 +963,10 @@
     "description": "Work on analog or embedded systems, from silicon to applications.",
     "requirements": "EE/CE; embedded C.",
     "link": "https://careers.ti.com",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_074",
@@ -1195,13 +976,10 @@
     "description": "Build or operate large-scale cloud services and infrastructure.",
     "requirements": "CS fundamentals; Linux; one language.",
     "link": "https://www.amazon.jobs",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_075",
@@ -1211,13 +989,10 @@
     "description": "Develop features or tooling for cloud infrastructure and platform services.",
     "requirements": "CS; distributed-systems interest.",
     "link": "https://careers.google.com",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_076",
@@ -1227,13 +1002,10 @@
     "description": "Work on cloud platform, infrastructure, or reliability engineering.",
     "requirements": "CS fundamentals; one language; Linux.",
     "link": "https://careers.microsoft.com",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_077",
@@ -1243,13 +1015,10 @@
     "description": "Contribute to infrastructure-automation and cloud tooling used by DevOps teams.",
     "requirements": "Go/one language; systems basics.",
     "link": "https://www.hashicorp.com/careers",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_078",
@@ -1259,14 +1028,11 @@
     "description": "Build observability and monitoring features across a large distributed platform.",
     "requirements": "CS; one backend language.",
     "link": "https://careers.datadoghq.com",
-    "date_posted": null,
     "pathways": [
       "devops_cloud",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_079",
@@ -1276,14 +1042,11 @@
     "description": "Work on network, security, or platform services delivered at global scale.",
     "requirements": "CS; networking or systems interest.",
     "link": "https://www.cloudflare.com/careers",
-    "date_posted": null,
     "pathways": [
       "devops_cloud",
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_080",
@@ -1293,13 +1056,10 @@
     "description": "Contribute to open-source infrastructure, Linux, or cloud-native tooling.",
     "requirements": "Linux; one language; open-source interest.",
     "link": "https://www.redhat.com/en/jobs",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_081",
@@ -1309,13 +1069,10 @@
     "description": "Define product requirements and work across engineering and design to ship a feature.",
     "requirements": "Any major; product sense; technical literacy.",
     "link": "https://careers.google.com",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_082",
@@ -1325,13 +1082,10 @@
     "description": "Own a product area, gather requirements, and drive a feature from idea to launch.",
     "requirements": "Technical or business background; communication.",
     "link": "https://careers.microsoft.com",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_083",
@@ -1341,13 +1095,10 @@
     "description": "Work across product teams to scope, prioritize, and ship features.",
     "requirements": "Product sense; analytical skills.",
     "link": "https://www.metacareers.com",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_084",
@@ -1357,13 +1108,10 @@
     "description": "Drive a product initiative end to end across engineering, design, and data.",
     "requirements": "Analytical; technical literacy.",
     "link": "https://www.uber.com/careers",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_085",
@@ -1373,13 +1121,10 @@
     "description": "Define and ship features for the professional network with cross-functional teams.",
     "requirements": "Product interest; data literacy.",
     "link": "https://careers.linkedin.com",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_086",
@@ -1389,13 +1134,10 @@
     "description": "Shape collaboration products by scoping problems and coordinating delivery.",
     "requirements": "Product sense; communication.",
     "link": "https://www.atlassian.com/company/careers",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_087",
@@ -1405,13 +1147,10 @@
     "description": "Design user experiences and interfaces, from research and wireframes to polished flows.",
     "requirements": "Design portfolio; interaction design.",
     "link": "https://careers.google.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_088",
@@ -1421,13 +1160,10 @@
     "description": "Contribute product or experience design for creative and document tools.",
     "requirements": "Portfolio; UX/UI skills.",
     "link": "https://careers.adobe.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_089",
@@ -1437,13 +1173,10 @@
     "description": "Design end-to-end product experiences with research, prototyping, and testing.",
     "requirements": "Portfolio; interaction design.",
     "link": "https://www.metacareers.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_090",
@@ -1453,13 +1186,10 @@
     "description": "Work on interaction and visual design for products used by millions.",
     "requirements": "Portfolio; design tools.",
     "link": "https://careers.microsoft.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_091",
@@ -1469,13 +1199,10 @@
     "description": "Apply design thinking to enterprise product experiences.",
     "requirements": "Portfolio; UX process.",
     "link": "https://www.ibm.com/careers",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_092",
@@ -1485,14 +1212,11 @@
     "description": "Mentored summer research in human-computer interaction, ending in a poster or paper.",
     "requirements": "Undergrad; interest in HCI research.",
     "link": "https://www.hcii.cmu.edu",
-    "date_posted": null,
     "pathways": [
       "ux_design",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_093",
@@ -1502,14 +1226,11 @@
     "description": "Build low-latency trading systems and tools; strong emphasis on functional programming and problem solving.",
     "requirements": "Excellent CS fundamentals; problem solving.",
     "link": "https://www.janestreet.com/join-jane-street",
-    "date_posted": null,
     "pathways": [
       "quant_finance",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_094",
@@ -1519,13 +1240,10 @@
     "description": "Develop software or quantitative models supporting trading strategies.",
     "requirements": "Strong CS/math; coding.",
     "link": "https://www.citadel.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_095",
@@ -1535,14 +1253,11 @@
     "description": "Apply data science and engineering to modeling financial data and building trading systems.",
     "requirements": "CS/stats; Python; strong quantitative skills.",
     "link": "https://www.twosigma.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance",
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_096",
@@ -1552,13 +1267,10 @@
     "description": "Work on high-performance trading systems or quantitative research.",
     "requirements": "Strong CS/math; C++ or Python.",
     "link": "https://www.jumptrading.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_097",
@@ -1568,13 +1280,10 @@
     "description": "Support algorithmic trading through software or quantitative work.",
     "requirements": "CS/math; problem solving.",
     "link": "https://careers.imc.com",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_098",
@@ -1584,13 +1293,10 @@
     "description": "Contribute to trading technology or quantitative research in market making.",
     "requirements": "Strong quantitative and coding skills.",
     "link": "https://www.optiver.com/working-at-optiver",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_099",
@@ -1600,13 +1306,10 @@
     "description": "Work on software or quantitative problems at a systematic investment firm.",
     "requirements": "Excellent CS/math fundamentals.",
     "link": "https://www.deshaw.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_100",
@@ -1616,13 +1319,10 @@
     "description": "Build trading software or perform quantitative research for options market making.",
     "requirements": "CS/math; C++ or Python.",
     "link": "https://akunacapital.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_101",
@@ -1632,13 +1332,10 @@
     "description": "Support trading, technology, or quantitative research functions.",
     "requirements": "Quantitative aptitude; coding.",
     "link": "https://careers.sig.com",
-    "date_posted": null,
     "pathways": [
       "quant_finance"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_102",
@@ -1648,14 +1345,11 @@
     "description": "Build software for markets, risk, or platform teams in a financial-services setting.",
     "requirements": "CS fundamentals; one language.",
     "link": "https://www.goldmansachs.com/careers",
-    "date_posted": null,
     "pathways": [
       "quant_finance",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_103",
@@ -1665,14 +1359,11 @@
     "description": "Build gameplay, platform, or tools software for live games.",
     "requirements": "C++/C#; CS fundamentals.",
     "link": "https://www.riotgames.com/en/work-with-us",
-    "date_posted": null,
     "pathways": [
       "game_development",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_104",
@@ -1682,13 +1373,10 @@
     "description": "Contribute to game engineering, tools, or gameplay across EA studios.",
     "requirements": "C++/C#; game or graphics interest.",
     "link": "https://www.ea.com/careers",
-    "date_posted": null,
     "pathways": [
       "game_development"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_105",
@@ -1698,13 +1386,10 @@
     "description": "Work on Unreal Engine, gameplay, or online systems.",
     "requirements": "C++; engine or graphics interest.",
     "link": "https://www.epicgames.com/site/en-US/careers",
-    "date_posted": null,
     "pathways": [
       "game_development"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_106",
@@ -1714,13 +1399,10 @@
     "description": "Support game engineering or tools development on major game titles.",
     "requirements": "C++/C#; games passion.",
     "link": "https://careers.blizzard.com",
-    "date_posted": null,
     "pathways": [
       "game_development"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_107",
@@ -1730,14 +1412,11 @@
     "description": "Build features for the Unity engine and creator tools.",
     "requirements": "C#/C++; graphics or tools interest.",
     "link": "https://careers.unity.com",
-    "date_posted": null,
     "pathways": [
       "game_development",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_108",
@@ -1747,13 +1426,10 @@
     "description": "Contribute to game platform, tools, or systems technology.",
     "requirements": "C++; systems or graphics interest.",
     "link": "https://careers.nintendo.com",
-    "date_posted": null,
     "pathways": [
       "game_development"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_109",
@@ -1763,14 +1439,11 @@
     "description": "Summer fellowship placing students in federal agencies to work on data science, software, design, or product for the public good.",
     "requirements": "US undergrad/grad; tech skills; public-interest motivation.",
     "link": "https://www.codingitforward.com",
-    "date_posted": null,
     "pathways": [
       "civic_tech",
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_110",
@@ -1780,14 +1453,11 @@
     "description": "Two-year early-career fellowship building technology for federal agencies in engineering, data, design, or product.",
     "requirements": "US citizen; early-career technologist.",
     "link": "https://digitalcorps.gsa.gov",
-    "date_posted": null,
     "pathways": [
       "civic_tech",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_111",
@@ -1797,13 +1467,10 @@
     "description": "Work on technology that improves government services and social-safety-net access.",
     "requirements": "Software, data, or design skills; public-interest focus.",
     "link": "https://www.codeforamerica.org/careers",
-    "date_posted": null,
     "pathways": [
       "civic_tech"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_112",
@@ -1813,14 +1480,11 @@
     "description": "Project-based internship across NASA centers in software, data, or engineering supporting missions.",
     "requirements": "US citizen; STEM student; 3.0+ GPA typical.",
     "link": "https://intern.nasa.gov",
-    "date_posted": null,
     "pathways": [
       "research_grad_school",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_113",
@@ -1830,14 +1494,11 @@
     "description": "Support research and engineering across security, computing, and systems projects.",
     "requirements": "US citizen for many roles; STEM student.",
     "link": "https://www.sandia.gov/careers",
-    "date_posted": null,
     "pathways": [
       "research_grad_school",
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_114",
@@ -1847,14 +1508,11 @@
     "description": "Work on high-performance computing, data, or systems research.",
     "requirements": "US person for many roles; CS/CE.",
     "link": "https://www.llnl.gov/join-our-team",
-    "date_posted": null,
     "pathways": [
       "research_grad_school",
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_115",
@@ -1864,14 +1522,11 @@
     "description": "Build software for public-interest projects in federally funded research.",
     "requirements": "US work authorization; CS.",
     "link": "https://careers.mitre.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "civic_tech"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_116",
@@ -1881,14 +1536,11 @@
     "description": "Contribute to embedded, autonomy, or systems engineering on national-interest projects.",
     "requirements": "US citizen for many roles; EE/CE/CS.",
     "link": "https://www.draper.com/careers",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_117",
@@ -1898,13 +1550,10 @@
     "description": "Scholarship for students in computing from historically underrepresented groups, with a retreat/community component.",
     "requirements": "Undergrad in CS or related; demonstrated leadership.",
     "link": "https://buildyourfuture.withgoogle.com/scholarships",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_118",
@@ -1914,13 +1563,10 @@
     "description": "Scholarship supporting students with disabilities pursuing computer science.",
     "requirements": "Student with a disability; CS major.",
     "link": "https://buildyourfuture.withgoogle.com/scholarships",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_119",
@@ -1930,14 +1576,11 @@
     "description": "Scholarship recognizing women and nonbinary students in computing, with a possible internship track.",
     "requirements": "Undergrad women/nonbinary in CS.",
     "link": "https://research.adobe.com/scholarship",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_120",
@@ -1947,14 +1590,11 @@
     "description": "Scholarship for students from underrepresented groups in STEM, often data/analytics oriented.",
     "requirements": "Underrepresented STEM undergrad.",
     "link": "https://www.palantir.com/students/scholarship",
-    "date_posted": null,
     "pathways": [
       "data_science",
       "machine_learning_ai"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_121",
@@ -1964,13 +1604,10 @@
     "description": "Scholarship supporting undergraduates pursuing computer science and related fields.",
     "requirements": "CS undergrad; passion for tech.",
     "link": "https://careers.microsoft.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_122",
@@ -1980,14 +1617,11 @@
     "description": "Full scholarship plus stipend and guaranteed employment for STEM students who commit to DoD service.",
     "requirements": "US citizen; STEM major.",
     "link": "https://www.smartscholarship.org",
-    "date_posted": null,
     "pathways": [
       "research_grad_school",
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_123",
@@ -1997,13 +1631,10 @@
     "description": "Scholarship and internship pipeline for students from underserved communities entering CS.",
     "requirements": "Graduating high-school senior; CS-bound.",
     "link": "https://www.amazonfutureengineer.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_124",
@@ -2013,13 +1644,10 @@
     "description": "Scholarship supporting underrepresented students in hardware and electronic design.",
     "requirements": "EE/CE/CS undergrad.",
     "link": "https://www.cadence.com",
-    "date_posted": null,
     "pathways": [
       "hardware_embedded"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_125",
@@ -2029,13 +1657,10 @@
     "description": "Award recognizing women and nonbinary students for computing achievement and aspiration.",
     "requirements": "High-school / early undergrad women/nonbinary.",
     "link": "https://www.aspirations.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_126",
@@ -2045,13 +1670,10 @@
     "description": "Scholarships and career programming for students at HBCUs, including computing tracks.",
     "requirements": "HBCU student; financial need.",
     "link": "https://www.tmcf.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_127",
@@ -2061,13 +1683,10 @@
     "description": "Scholarship and support program for high-achieving Black students in STEM.",
     "requirements": "Black STEM undergrad; financial need.",
     "link": "https://uncf.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_128",
@@ -2077,14 +1696,11 @@
     "description": "Scholarship and engineering-community program for underrepresented students in tech.",
     "requirements": "Undergrad CS; underrepresented in tech.",
     "link": "https://careers.bloomberg.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_129",
@@ -2094,13 +1710,10 @@
     "description": "Season of student hackathons where teams build a project in a weekend, with mentors and prizes.",
     "requirements": "Any student; no experience required.",
     "link": "https://mlh.io",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_130",
@@ -2110,13 +1723,10 @@
     "description": "Large annual student hackathon building software or hardware projects over a weekend.",
     "requirements": "College students.",
     "link": "https://hackmit.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_131",
@@ -2126,13 +1736,10 @@
     "description": "Student hackathon where teams prototype software or hardware projects.",
     "requirements": "Students; any level.",
     "link": "https://pennapps.com",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_132",
@@ -2142,14 +1749,11 @@
     "description": "Data science and machine learning competitions with public datasets and leaderboards.",
     "requirements": "Anyone; Python/R helpful.",
     "link": "https://www.kaggle.com/competitions",
-    "date_posted": null,
     "pathways": [
       "data_science",
       "machine_learning_ai"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_133",
@@ -2159,13 +1763,10 @@
     "description": "Team algorithmic programming contest progressing from regionals to world finals.",
     "requirements": "College students; DSA and problem solving.",
     "link": "https://icpc.global",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_134",
@@ -2175,13 +1776,10 @@
     "description": "Beginner-friendly capture-the-flag cybersecurity competition and learning platform.",
     "requirements": "Students; no experience required.",
     "link": "https://picoctf.org",
-    "date_posted": null,
     "pathways": [
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_135",
@@ -2191,13 +1789,10 @@
     "description": "Machine-learning competition where students train reinforcement-learning models for autonomous racing.",
     "requirements": "Students; intro ML helpful.",
     "link": "https://student.deepracer.com",
-    "date_posted": null,
     "pathways": [
       "machine_learning_ai"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_136",
@@ -2207,14 +1802,11 @@
     "description": "District-level competition where students build an app addressing a community problem.",
     "requirements": "Middle/high-school students.",
     "link": "https://www.congressionalappchallenge.us",
-    "date_posted": null,
     "pathways": [
       "civic_tech",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_137",
@@ -2224,14 +1816,11 @@
     "description": "Free university-level courses in software engineering, cybersecurity, and interview prep for underrepresented students.",
     "requirements": "Undergrad; enrolled at partner schools.",
     "link": "https://www.codepath.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "cybersecurity"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_138",
@@ -2241,13 +1830,10 @@
     "description": "Community and fellowship supporting collegiate women in tech with mentorship and opportunities.",
     "requirements": "Undergrad/early-career women in tech.",
     "link": "https://rewritingthecode.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_139",
@@ -2257,13 +1843,10 @@
     "description": "National community supporting Black and Latinx computing students with mentorship, events, and opportunities.",
     "requirements": "Black/Latinx CS undergrad.",
     "link": "https://www.colorstack.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_140",
@@ -2273,14 +1856,11 @@
     "description": "Structured coaching program preparing underrepresented students for competitive tech and business careers.",
     "requirements": "Undergrad from underrepresented group.",
     "link": "https://mlt.org",
-    "date_posted": null,
     "pathways": [
       "product_management",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_141",
@@ -2290,14 +1870,11 @@
     "description": "Scholarship to attend the largest gathering of women and nonbinary technologists, with recruiting and research tracks.",
     "requirements": "Women/nonbinary students in computing.",
     "link": "https://ghc.anitab.org",
-    "date_posted": null,
     "pathways": [
       "software_engineering",
       "research_grad_school"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_142",
@@ -2307,14 +1884,11 @@
     "description": "Scholarship to attend the Tapia Celebration of Diversity in Computing, connecting students to research and industry.",
     "requirements": "Underrepresented computing students.",
     "link": "https://tapiaconference.cmd-it.org",
-    "date_posted": null,
     "pathways": [
       "research_grad_school",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_143",
@@ -2324,13 +1898,10 @@
     "description": "Plan and run user research studies to inform product design decisions.",
     "requirements": "HCI/psych/design; research methods.",
     "link": "https://careers.google.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_144",
@@ -2340,13 +1911,10 @@
     "description": "Design end-to-end experiences with prototyping, testing, and cross-functional collaboration.",
     "requirements": "Design portfolio; interaction design.",
     "link": "https://careers.airbnb.com",
-    "date_posted": null,
     "pathways": [
       "ux_design"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_145",
@@ -2356,13 +1924,10 @@
     "description": "Own product requirements and coordinate delivery across engineering and design.",
     "requirements": "Analytical; technical literacy.",
     "link": "https://www.amazon.jobs",
-    "date_posted": null,
     "pathways": [
       "product_management"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_146",
@@ -2372,14 +1937,11 @@
     "description": "Build gameplay, engine, or platform features for a large user-generated gaming platform.",
     "requirements": "C++/C#/Lua; CS fundamentals.",
     "link": "https://corp.roblox.com/careers",
-    "date_posted": null,
     "pathways": [
       "game_development",
       "software_engineering"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_147",
@@ -2389,13 +1951,10 @@
     "description": "Contribute to game engineering, tools, or gameplay across Ubisoft studios.",
     "requirements": "C++/C#; games interest.",
     "link": "https://www.ubisoft.com/en-us/company/careers",
-    "date_posted": null,
     "pathways": [
       "game_development"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_148",
@@ -2405,13 +1964,10 @@
     "description": "Improve the reliability and scalability of production systems through automation and monitoring.",
     "requirements": "Linux; one language; systems interest.",
     "link": "https://careers.linkedin.com",
-    "date_posted": null,
     "pathways": [
       "devops_cloud"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_149",
@@ -2421,14 +1977,11 @@
     "description": "Volunteer/fellowship program applying data science to problems for nonprofits and social-good organizations.",
     "requirements": "Data science skills; public-interest motivation.",
     "link": "https://www.datakind.org",
-    "date_posted": null,
     "pathways": [
       "civic_tech",
       "data_science"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   },
   {
     "id": "opp_150",
@@ -2438,12 +1991,9 @@
     "description": "Fellowship placing technologists in the U.S. Congress to work on technology policy.",
     "requirements": "Early-career technologist; policy interest.",
     "link": "https://www.techcongress.io",
-    "date_posted": null,
     "pathways": [
       "civic_tech"
     ],
-    "verified": false,
-    "date_posted_status": "unknown",
-    "label_review_status": "pending"
+    "verified": true
   }
 ]

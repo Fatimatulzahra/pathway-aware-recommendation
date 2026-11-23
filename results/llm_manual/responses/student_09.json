@@ -1,0 +1,69 @@
+{
+"profile_id": "student_09",
+"recommendations": [
+{
+"opportunity_id": "opp_089",
+"reason": "Combines research, prototyping, and testing in end-to-end product design and explicitly calls for interaction design skills."
+},
+{
+"opportunity_id": "opp_143",
+"reason": "Directly matches the user research interest through planning and running studies that inform product design."
+},
+{
+"opportunity_id": "opp_087",
+"reason": "Connects research to interface design through wireframes and polished user flows, with interaction design listed as a requirement."
+},
+{
+"opportunity_id": "opp_144",
+"reason": "Combines interaction design with prototyping and testing across the full product experience."
+},
+{
+"opportunity_id": "opp_092",
+"reason": "Offers mentored research in human-computer interaction, directly connecting research with how people use technology."
+},
+{
+"opportunity_id": "opp_090",
+"reason": "Explicitly focuses on interaction and visual design for widely used products."
+},
+{
+"opportunity_id": "opp_091",
+"reason": "Applies design thinking and UX processes to enterprise product experiences."
+},
+{
+"opportunity_id": "opp_088",
+"reason": "Involves designing product experiences for creative and document tools and calls for UX/UI skills."
+},
+{
+"opportunity_id": "opp_111",
+"reason": "Connects design skills with improving access to government services and the social safety net."
+},
+{
+"opportunity_id": "opp_026",
+"reason": "Uses statistics and experimentation to study listener behavior and product performance, offering a quantitative approach to understanding users."
+},
+{
+"opportunity_id": "opp_109",
+"reason": "Offers design as a project area for fellows working on public-interest technology in federal agencies."
+},
+{
+"opportunity_id": "opp_110",
+"reason": "Includes design as a discipline for fellows building technology for federal agencies."
+},
+{
+"opportunity_id": "opp_081",
+"reason": "Connects product requirements with design and engineering collaboration to deliver a feature."
+},
+{
+"opportunity_id": "opp_084",
+"reason": "Involves working with design, engineering, and data teams throughout a product initiative."
+},
+{
+"opportunity_id": "opp_145",
+"reason": "Involves translating product requirements into delivery work coordinated with design and engineering."
+},
+{
+"opportunity_id": "opp_023",
+"reason": "Uses experiments to inform product decisions and measure their impact, which connects to the evaluation side of UX."
+}
+]
+}

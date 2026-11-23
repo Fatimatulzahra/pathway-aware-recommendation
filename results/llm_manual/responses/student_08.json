@@ -1,0 +1,81 @@
+{
+"profile_id": "student_08",
+"recommendations": [
+{
+"opportunity_id": "opp_082",
+"reason": "Owns a product area, gathers requirements, and leads a feature from idea to launch."
+},
+{
+"opportunity_id": "opp_083",
+"reason": "Scopes and prioritizes features across product teams, directly matching the student's interest in roadmap planning."
+},
+{
+"opportunity_id": "opp_145",
+"reason": "Owns product requirements and coordinates delivery across engineering and design."
+},
+{
+"opportunity_id": "opp_081",
+"reason": "Defines product requirements and works with engineering and design to ship a feature."
+},
+{
+"opportunity_id": "opp_086",
+"reason": "Shapes collaboration products by defining the problems to address and coordinating delivery."
+},
+{
+"opportunity_id": "opp_085",
+"reason": "Defines features for a professional network and works with cross-functional teams to ship them."
+},
+{
+"opportunity_id": "opp_084",
+"reason": "Leads a product initiative from start to finish across engineering, design, and data."
+},
+{
+"opportunity_id": "opp_002",
+"reason": "Includes a product management rotation that gives early undergraduates direct exposure to the role."
+},
+{
+"opportunity_id": "opp_143",
+"reason": "Plans and runs user studies that bring evidence about users into product design decisions."
+},
+{
+"opportunity_id": "opp_024",
+"reason": "Uses marketplace analysis and experiments to guide product and business decisions."
+},
+{
+"opportunity_id": "opp_023",
+"reason": "Uses experiments and statistical analysis to inform product decisions and measure their impact."
+},
+{
+"opportunity_id": "opp_109",
+"reason": "Offers product work as one of its federal-agency placement areas through a summer fellowship."
+},
+{
+"opportunity_id": "opp_110",
+"reason": "Includes product as one of several areas for early-career work on federal technology."
+},
+{
+"opportunity_id": "opp_026",
+"reason": "Studies listener behavior and product performance through statistics and experimentation."
+},
+{
+"opportunity_id": "opp_089",
+"reason": "Uses research, prototyping, and testing to shape product experiences around user needs."
+},
+{
+"opportunity_id": "opp_029",
+"reason": "Uses experiments and analysis to shape recommendations and growth decisions."
+},
+{
+"opportunity_id": "opp_087",
+"reason": "Connects research with interface design by developing wireframes and user flows."
+},
+{
+"opportunity_id": "opp_144",
+"reason": "Uses prototyping and testing to evaluate product experiences in collaboration with other teams."
+},
+{
+"opportunity_id": "opp_015",
+"reason": "Gives a team practice translating a business problem into a working prototype and presenting it to leadership."
+}
+]
+}

@@ -1,0 +1,4 @@
+﻿method,profiles,precision_at_5,pooled_ndcg_at_5
+keyword,12,0.9166666666666666,0.9465153607381872
+llm_manual,12,1.0,1.0
+tfidf,12,0.9166666666666666,0.9413413596413701

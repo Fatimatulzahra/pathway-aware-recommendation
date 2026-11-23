@@ -1,0 +1,65 @@
+{
+"profile_id": "student_07",
+"recommendations": [
+{
+"opportunity_id": "opp_077",
+"reason": "Contributes to infrastructure automation and cloud tooling used by DevOps teams."
+},
+{
+"opportunity_id": "opp_076",
+"reason": "Offers work on cloud platforms, infrastructure, or reliability engineering and lists Linux among its requirements."
+},
+{
+"opportunity_id": "opp_148",
+"reason": "Improves production reliability and scalability through automation and monitoring."
+},
+{
+"opportunity_id": "opp_074",
+"reason": "Involves building or operating large-scale cloud services and infrastructure."
+},
+{
+"opportunity_id": "opp_075",
+"reason": "Develops tooling or features for cloud infrastructure and platform services."
+},
+{
+"opportunity_id": "opp_080",
+"reason": "Offers contributions to open-source infrastructure, Linux, or cloud-native tooling."
+},
+{
+"opportunity_id": "opp_078",
+"reason": "Builds observability and monitoring features for a large distributed platform."
+},
+{
+"opportunity_id": "opp_019",
+"reason": "Focuses on open-source software and infrastructure projects through a production engineering fellowship."
+},
+{
+"opportunity_id": "opp_079",
+"reason": "Offers work on globally delivered network, security, or platform services."
+},
+{
+"opportunity_id": "opp_049",
+"reason": "Builds or tests secure networking and cloud-security features."
+},
+{
+"opportunity_id": "opp_004",
+"reason": "Involves building and shipping backend or full-stack services at scale."
+},
+{
+"opportunity_id": "opp_007",
+"reason": "Builds reliable payments software and developer-facing APIs for production."
+},
+{
+"opportunity_id": "opp_005",
+"reason": "Offers opportunities to contribute production code on platform or systems software teams."
+},
+{
+"opportunity_id": "opp_006",
+"reason": "Includes development work on data infrastructure used by financial markets professionals."
+},
+{
+"opportunity_id": "opp_014",
+"reason": "Builds data-integration and application software deployed for customer use."
+}
+]
+}

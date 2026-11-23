@@ -1,0 +1,69 @@
+{
+"profile_id": "student_04",
+"recommendations": [
+{
+"opportunity_id": "opp_047",
+"reason": "Explicitly lists threat detection, product security, and security research as possible areas of work."
+},
+{
+"opportunity_id": "opp_048",
+"reason": "Offers work in detection engineering, threat intelligence, or endpoint protection."
+},
+{
+"opportunity_id": "opp_052",
+"reason": "Lists detection alongside product security and privacy engineering as possible areas of work."
+},
+{
+"opportunity_id": "opp_043",
+"reason": "Offers hands-on work in network defense, reverse engineering, or vulnerability analysis."
+},
+{
+"opportunity_id": "opp_049",
+"reason": "Involves building or testing secure networking and cloud-security features."
+},
+{
+"opportunity_id": "opp_046",
+"reason": "Involves security research and engineering on federally funded projects."
+},
+{
+"opportunity_id": "opp_050",
+"reason": "Applies cybersecurity skills on consulting engagements for government and commercial clients."
+},
+{
+"opportunity_id": "opp_079",
+"reason": "Lists security services as one possible assignment on a global platform."
+},
+{
+"opportunity_id": "opp_113",
+"reason": "Includes security among the areas in which interns can support research and engineering."
+},
+{
+"opportunity_id": "opp_045",
+"reason": "Provides practical cybersecurity and reverse-engineering challenges at several difficulty levels."
+},
+{
+"opportunity_id": "opp_051",
+"reason": "Offers hands-on cybersecurity practice through a capture-the-flag competition and awards training scholarships to top performers."
+},
+{
+"opportunity_id": "opp_134",
+"reason": "Provides beginner-friendly cybersecurity practice through capture-the-flag challenges."
+},
+{
+"opportunity_id": "opp_044",
+"reason": "Funds study in a participating security program and leads to post-graduation government cybersecurity service."
+},
+{
+"opportunity_id": "opp_137",
+"reason": "Offers university-level cybersecurity coursework."
+},
+{
+"opportunity_id": "opp_078",
+"reason": "Builds observability and monitoring tools for distributed systems, skills that transfer to threat detection and incident investigation."
+},
+{
+"opportunity_id": "opp_148",
+"reason": "Uses production monitoring and automation to improve reliability, skills that transfer to incident detection and response."
+}
+]
+}

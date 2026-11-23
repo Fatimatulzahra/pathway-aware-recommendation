@@ -1,0 +1,77 @@
+{
+"profile_id": "student_03",
+"recommendations": [
+{
+"opportunity_id": "opp_032",
+"reason": "Develops and optimizes deep learning models and GPU training systems, with Python and PyTorch or TensorFlow listed in the requirements."
+},
+{
+"opportunity_id": "opp_037",
+"reason": "Builds machine learning features for on-device intelligence and requires Python and a deep learning framework."
+},
+{
+"opportunity_id": "opp_038",
+"reason": "Develops and evaluates machine learning models for search, recommendations, or operations."
+},
+{
+"opportunity_id": "opp_035",
+"reason": "Offers a mentored AI or machine learning research project and lists Python as a requirement."
+},
+{
+"opportunity_id": "opp_025",
+"reason": "Builds models on large datasets for personalization and content decisions and calls for Python and a machine learning or statistics background."
+},
+{
+"opportunity_id": "opp_040",
+"reason": "Involves advanced machine learning research and calls for strong machine learning and math skills."
+},
+{
+"opportunity_id": "opp_033",
+"reason": "Involves conducting machine learning research with scientists toward a publishable result."
+},
+{
+"opportunity_id": "opp_034",
+"reason": "Addresses fundamental or applied AI research problems and calls for depth in machine learning."
+},
+{
+"opportunity_id": "opp_135",
+"reason": "Has students train reinforcement learning models for autonomous racing."
+},
+{
+"opportunity_id": "opp_132",
+"reason": "Offers machine learning competitions using public datasets and lists Python as a helpful language."
+},
+{
+"opportunity_id": "opp_042",
+"reason": "Develops machine learning skills through a real-world studio project."
+},
+{
+"opportunity_id": "opp_036",
+"reason": "Helps participants with quantitative and programming backgrounds transition into AI research and engineering."
+},
+{
+"opportunity_id": "opp_039",
+"reason": "Lists AI research as one possible project area and machine learning as one qualifying background."
+},
+{
+"opportunity_id": "opp_041",
+"reason": "Introduces AI through a mentored research project and an ethics curriculum."
+},
+{
+"opportunity_id": "opp_028",
+"reason": "Applies modeling to financial risk, marketing, or customer data and lists Python or R in the requirements."
+},
+{
+"opportunity_id": "opp_031",
+"reason": "Produces models from large media-measurement datasets and lists Python or R in the requirements."
+},
+{
+"opportunity_id": "opp_095",
+"reason": "Applies data science to modeling financial data and calls for Python and quantitative skills."
+},
+{
+"opportunity_id": "opp_030",
+"reason": "Uses statistical modeling and experimentation for pricing, logistics, or marketing and lists Python or R in the requirements."
+}
+]
+}

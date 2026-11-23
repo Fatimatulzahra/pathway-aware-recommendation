@@ -1,0 +1,69 @@
+{
+"profile_id": "student_06",
+"recommendations": [
+{
+"opportunity_id": "opp_068",
+"reason": "Develops embedded firmware for vehicle or energy systems and explicitly requires microcontroller knowledge and C/C++."
+},
+{
+"opportunity_id": "opp_067",
+"reason": "Offers embedded and system-on-chip engineering work and calls for C/C++ and embedded fundamentals."
+},
+{
+"opportunity_id": "opp_073",
+"reason": "Includes embedded and analog systems work spanning silicon to applications and calls for embedded C."
+},
+{
+"opportunity_id": "opp_071",
+"reason": "Connects processor hardware and embedded software through processor IP design, verification, or embedded software work."
+},
+{
+"opportunity_id": "opp_065",
+"reason": "Involves GPU or accelerator hardware design and verification using RTL and Verilog, skills relevant to FPGA design."
+},
+{
+"opportunity_id": "opp_064",
+"reason": "Involves chip design, validation, or computer architecture and emphasizes digital logic, with Verilog listed as a plus."
+},
+{
+"opportunity_id": "opp_072",
+"reason": "Includes building embedded systems and flight or ground software for launch vehicles and lists C++ and Python."
+},
+{
+"opportunity_id": "opp_070",
+"reason": "Offers embedded systems, flight software, or robotics work for space missions."
+},
+{
+"opportunity_id": "opp_066",
+"reason": "Applies digital design to processor or GPU design, verification, or physical implementation."
+},
+{
+"opportunity_id": "opp_069",
+"reason": "Includes embedded systems as a possible focus alongside robot software and controls."
+},
+{
+"opportunity_id": "opp_116",
+"reason": "Offers embedded engineering as one possible focus for national-interest projects."
+},
+{
+"opportunity_id": "opp_124",
+"reason": "Provides scholarship support for students pursuing hardware and electronic design."
+},
+{
+"opportunity_id": "opp_131",
+"reason": "Lets student teams prototype hardware projects, providing a venue for hands-on hardware work."
+},
+{
+"opportunity_id": "opp_130",
+"reason": "Includes hardware projects as an option for a weekend student build."
+},
+{
+"opportunity_id": "opp_037",
+"reason": "Builds ML features for on-device intelligence, an application area for embedded computing."
+},
+{
+"opportunity_id": "opp_032",
+"reason": "Includes optimizing model-training systems that run on GPU hardware, connecting software performance work to hardware."
+}
+]
+}

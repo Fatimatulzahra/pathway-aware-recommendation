@@ -1,0 +1,53 @@
+{
+"profile_id": "student_10",
+"recommendations": [
+{
+"opportunity_id": "opp_095",
+"reason": "Combines financial data modeling with building trading systems."
+},
+{
+"opportunity_id": "opp_094",
+"reason": "Involves developing software or quantitative models that support trading strategies."
+},
+{
+"opportunity_id": "opp_100",
+"reason": "Offers trading software development or quantitative research for options market making."
+},
+{
+"opportunity_id": "opp_098",
+"reason": "Offers quantitative research or trading technology work in market making."
+},
+{
+"opportunity_id": "opp_097",
+"reason": "Supports algorithmic trading through software development or quantitative work."
+},
+{
+"opportunity_id": "opp_028",
+"reason": "Includes risk as a possible focus for analytics and modeling in financial services."
+},
+{
+"opportunity_id": "opp_099",
+"reason": "Offers work on quantitative or software problems at a systematic investment firm."
+},
+{
+"opportunity_id": "opp_096",
+"reason": "Offers work on high-performance trading systems or quantitative research."
+},
+{
+"opportunity_id": "opp_101",
+"reason": "Includes trading and quantitative research among its possible assignments."
+},
+{
+"opportunity_id": "opp_093",
+"reason": "Focuses on building low-latency trading systems and tools."
+},
+{
+"opportunity_id": "opp_102",
+"reason": "Includes software development for markets or risk teams among its possible assignments in financial services."
+},
+{
+"opportunity_id": "opp_006",
+"reason": "Develops financial software and data infrastructure used by financial markets professionals."
+}
+]
+}
