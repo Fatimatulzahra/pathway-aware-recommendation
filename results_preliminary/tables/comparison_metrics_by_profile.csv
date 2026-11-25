@@ -1,0 +1,73 @@
+﻿profile_id,profile_name,method,k,returned_count,fill_rate,distinct_pathways,pathway_coverage,text_diversity
+student_01,Software development interests,keyword,5,5,1.0,1,0.08333333333333333,0.9259565960362399
+student_01,Software development interests,keyword,10,10,1.0,2,0.16666666666666666,0.9179753001312575
+student_01,Software development interests,keyword,20,20,1.0,6,0.5,0.9363502760051776
+student_01,Software development interests,tfidf,5,5,1.0,2,0.16666666666666666,0.9382781326324403
+student_01,Software development interests,tfidf,10,10,1.0,6,0.5,0.9542028180317044
+student_01,Software development interests,tfidf,20,20,1.0,7,0.5833333333333334,0.9508527019562725
+student_02,Data analytics interests,keyword,5,5,1.0,2,0.16666666666666666,0.8595330962513714
+student_02,Data analytics interests,keyword,10,10,1.0,4,0.3333333333333333,0.8861998144175619
+student_02,Data analytics interests,keyword,20,20,1.0,8,0.6666666666666666,0.9451537508968749
+student_02,Data analytics interests,tfidf,5,5,1.0,2,0.16666666666666666,0.8604876698428774
+student_02,Data analytics interests,tfidf,10,10,1.0,4,0.3333333333333333,0.8887164834883394
+student_02,Data analytics interests,tfidf,20,20,1.0,9,0.75,0.9426199131747378
+student_03,Machine learning interests,keyword,5,5,1.0,4,0.3333333333333333,0.9008741464503538
+student_03,Machine learning interests,keyword,10,10,1.0,5,0.4166666666666667,0.9354754210251471
+student_03,Machine learning interests,keyword,20,20,1.0,7,0.5833333333333334,0.954204286395105
+student_03,Machine learning interests,tfidf,5,5,1.0,4,0.3333333333333333,0.8934346762946149
+student_03,Machine learning interests,tfidf,10,10,1.0,6,0.5,0.9336317243888156
+student_03,Machine learning interests,tfidf,20,20,1.0,7,0.5833333333333334,0.954204286395105
+student_04,Cybersecurity interests,keyword,5,5,1.0,2,0.16666666666666666,0.9240521868857816
+student_04,Cybersecurity interests,keyword,10,10,1.0,3,0.25,0.928400903720643
+student_04,Cybersecurity interests,keyword,20,14,0.7,4,0.3333333333333333,0.9411574444466743
+student_04,Cybersecurity interests,tfidf,5,5,1.0,1,0.08333333333333333,0.8907858804454635
+student_04,Cybersecurity interests,tfidf,10,10,1.0,3,0.25,0.9291817174682047
+student_04,Cybersecurity interests,tfidf,20,14,0.7,4,0.3333333333333333,0.9411574444466743
+student_05,Research and graduate study interests,keyword,5,5,1.0,2,0.16666666666666666,0.9042353642342896
+student_05,Research and graduate study interests,keyword,10,10,1.0,3,0.25,0.9391163034025477
+student_05,Research and graduate study interests,keyword,20,20,1.0,4,0.3333333333333333,0.9533108925734037
+student_05,Research and graduate study interests,tfidf,5,5,1.0,2,0.16666666666666666,0.9038035784166866
+student_05,Research and graduate study interests,tfidf,10,10,1.0,2,0.16666666666666666,0.9366023757906521
+student_05,Research and graduate study interests,tfidf,20,20,1.0,4,0.3333333333333333,0.9565166390081631
+student_06,Hardware and embedded interests,keyword,5,5,1.0,3,0.25,0.9387342801176518
+student_06,Hardware and embedded interests,keyword,10,10,1.0,4,0.3333333333333333,0.9247488412981465
+student_06,Hardware and embedded interests,keyword,20,14,0.7,4,0.3333333333333333,0.941576935098465
+student_06,Hardware and embedded interests,tfidf,5,5,1.0,3,0.25,0.9064777154352625
+student_06,Hardware and embedded interests,tfidf,10,10,1.0,3,0.25,0.9390416915659893
+student_06,Hardware and embedded interests,tfidf,20,14,0.7,4,0.3333333333333333,0.941576935098465
+student_07,Cloud infrastructure interests,keyword,5,5,1.0,1,0.08333333333333333,0.8461631442411389
+student_07,Cloud infrastructure interests,keyword,10,10,1.0,3,0.25,0.909819393912117
+student_07,Cloud infrastructure interests,keyword,20,11,0.55,3,0.25,0.9122577632155396
+student_07,Cloud infrastructure interests,tfidf,5,5,1.0,1,0.08333333333333333,0.8596081329813525
+student_07,Cloud infrastructure interests,tfidf,10,10,1.0,3,0.25,0.9036969023964923
+student_07,Cloud infrastructure interests,tfidf,20,11,0.55,3,0.25,0.9122577632155396
+student_08,Product management interests,keyword,5,5,1.0,2,0.16666666666666666,0.8655500759762244
+student_08,Product management interests,keyword,10,10,1.0,2,0.16666666666666666,0.928736396178657
+student_08,Product management interests,keyword,20,20,1.0,6,0.5,0.9428431906307043
+student_08,Product management interests,tfidf,5,5,1.0,2,0.16666666666666666,0.8655500759762245
+student_08,Product management interests,tfidf,10,10,1.0,5,0.4166666666666667,0.9281444219717401
+student_08,Product management interests,tfidf,20,20,1.0,6,0.5,0.9402194656406972
+student_09,User experience interests,keyword,5,5,1.0,2,0.16666666666666666,0.88428230298052
+student_09,User experience interests,keyword,10,10,1.0,3,0.25,0.9161069651598513
+student_09,User experience interests,keyword,20,20,1.0,4,0.3333333333333333,0.9455199260813542
+student_09,User experience interests,tfidf,5,5,1.0,1,0.08333333333333333,0.7747819476503383
+student_09,User experience interests,tfidf,10,10,1.0,5,0.4166666666666667,0.8923409027764428
+student_09,User experience interests,tfidf,20,20,1.0,7,0.5833333333333334,0.9461294616168375
+student_10,Quantitative finance interests,keyword,5,5,1.0,3,0.25,0.9094751859974799
+student_10,Quantitative finance interests,keyword,10,10,1.0,3,0.25,0.8994268650775409
+student_10,Quantitative finance interests,keyword,20,16,0.8,5,0.4166666666666667,0.9378244933328128
+student_10,Quantitative finance interests,tfidf,5,5,1.0,3,0.25,0.8867409105656242
+student_10,Quantitative finance interests,tfidf,10,10,1.0,3,0.25,0.8994268650775409
+student_10,Quantitative finance interests,tfidf,20,16,0.8,5,0.4166666666666667,0.9378244933328128
+student_11,Game development interests,keyword,5,5,1.0,2,0.16666666666666666,0.8689793154733928
+student_11,Game development interests,keyword,10,10,1.0,2,0.16666666666666666,0.8980927523309025
+student_11,Game development interests,keyword,20,10,0.5,2,0.16666666666666666,0.8980927523309025
+student_11,Game development interests,tfidf,5,5,1.0,2,0.16666666666666666,0.8689793154733928
+student_11,Game development interests,tfidf,10,10,1.0,2,0.16666666666666666,0.8980927523309025
+student_11,Game development interests,tfidf,20,10,0.5,2,0.16666666666666666,0.8980927523309025
+student_12,Public interest technology interests,keyword,5,5,1.0,4,0.3333333333333333,0.9263270191684991
+student_12,Public interest technology interests,keyword,10,10,1.0,7,0.5833333333333334,0.9512846660438031
+student_12,Public interest technology interests,keyword,20,14,0.7,9,0.75,0.9584771254931163
+student_12,Public interest technology interests,tfidf,5,5,1.0,3,0.25,0.9254701730717734
+student_12,Public interest technology interests,tfidf,10,10,1.0,8,0.6666666666666666,0.9610637786276032
+student_12,Public interest technology interests,tfidf,20,14,0.7,9,0.75,0.9584771254931163
